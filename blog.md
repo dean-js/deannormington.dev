@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Blog | Dean Normington
-description: "An evolving notebook of my technical interests. Read my thoughts on current cybersecurity studies, articles I find interesting, and reflections on my past and current projects and much more."
+description: "An evolving Digital notebook of my interests. Read my thoughts on Current Projects,Studies, Articles I find interesting, and Reflections on Tech and much more."
 ---
 
 <section class="blog-section">
