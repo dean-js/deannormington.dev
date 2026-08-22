@@ -1,11 +1,12 @@
 ---
 layout: project
 title: Home Lab Project
-overview: "Hands-on home lab experiments, network setups, and defensive tooling practice."
+overview: "Hands-on home lab experiments, network setups, and offensive & defensive practice."
 features:
-  - Home network segmentation exercises
-  - Virtual lab deployments and automation
-  - Defensive tool configuration and hardening notes
+  - Starting out with TryHackMe Excercises & walkthroughs - Fundemental knowledge and using new software within cybersecurity industry.
+  - Home lab exercises - using old laptop and computer as a server -  this allowing me to practice safely
+  - Virtual lab Excercises and simulation - using variety of softwares and different linux operating systems 
+  - Using variety of tools and software and understanidng fundemental terminal commands using and navigating file systems
 technologies: "Linux, Virtualization, Ansible, Wireshark"
 github: ""
 screenshots: []
