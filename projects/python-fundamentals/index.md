@@ -18,18 +18,18 @@ description: "Python learning path focusing on practical scripting and tool buil
 
 Key Python fundamentals: variables, data types, control flow, functions and modules — with short examples and recommended resources to practice.
 
-## Working with Libraries
+## Fun Python Projects
 
-Using `pip` and `venv` effectively, plus examples using `requests`, `argparse`, and `pathlib` to write useful scripts.
+Writing basic scriuupts and creating beginner friendly python projects suchh as games and others to gain basic fundemental understadning of the code, how different types work in processing data and creating variety of projects using python
 
-## Creating Tools: Port Scanner
+## Creating Tools: Cybersecurity tools
 
-Step-by-step walkthrough building a simple TCP port scanner, covering sockets, optional threading, and safe legal/ethical considerations for testing.
+While studying my L3 in cybersecurity practices I decided to create build a A variety of tools to underastand ....
 
 ## Testing & Packaging
 
-Intro to `pytest` for testing small scripts and guidance on packaging scripts for reuse or sharing.
+Testing such projects and tools to ensure functionality and ease of use while remaning secure
 
 ## Next Steps
 
-Suggested follow-up projects: web scraping, automation, small web apps, and how to showcase work in a portfolio.
+Other future projects may include: web scraping, automation, small web apps, and using radspbvewrry pi for other projects this will soon be showcased in portfolio or projects page. 
