@@ -11,7 +11,7 @@ tags:
 categories:
   - projects
   - hardware
-description: "Hands-on Raspberry Pi projects useful for building home labs and inexpensive Proof-of-Concepts."
+description: "Hands-on Raspberry Pi projects useful for a wide range of techhnical projects including home lab and fun inexpensive creative projects"
 ---
 
 ## Home Lab Gateway
@@ -22,14 +22,14 @@ Using a Pi as an always-on gateway: static IP, SSH hardening, and basic monitori
 
 Lightweight Kali-like setup on a Pi for low-cost, portable lab work; includes legal & ethical cautions and recommended toolset.
 
-## IoT Sensor Prototypes
+## Fun Projects 
 
 Simple sensor projects (temperature, motion) demonstrating data collection, logging and visualization options.
 
-## Automation & Backups
+## Automation
 
 Using the Pi for scheduled tasks: backups, sync, and small automation scripts (e.g., `rsync` cron jobs) to improve reliability.
 
 ## Resources & Parts
 
-Bill-of-materials, recommended vendors, and tips to keep builds maintainable and secure.
+Ensuring projects are completed using reputable budget suppliers and parts
