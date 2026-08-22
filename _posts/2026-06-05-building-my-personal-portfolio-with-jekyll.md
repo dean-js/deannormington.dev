@@ -25,9 +25,9 @@ This post is a summary of my personal portfolio project journey. From initial co
 
 I decided to build a small personal portfolio to begin with when initially redisovering my passion and coming towards making the full pivot, this was to showcase current and developing understanding and completed functional websites or applications across three main areas:
 
-- Basic Web Development fundementals - building personal portfolio & other projects
-- Used legal knowledge creating a Legal tech project - Legal Fee calculator
-- Software development learning - Through building other demo websites and applications showcasing skillset in creating interactive, functional and secure digital products ensuring copany and  user satisfaction
+- Basic Web Development fundementals - Building Personal Portfolio with Blog  & other projects.
+- Used legal knowledge creating a Legal tech project - Legal Fee calculator.
+- Software development learning - Through building other demo websites and applications showcasing skillset in creating interactive, functional and secure digital products ensuring copany and  user satisfaction.
 - Cybersecurity studies in cybersecurity systems and practices - This enhacing and refreshing knowledge in a variety of areas and deepening undertanding of networking, , Security frameworks and more this enancing hands on knowledge using various softwares and  opening potential oppuurtunities  allowing me to break into entry-level cybersecurity roles
 
 Using jekyll for thisProject initially when starting out was to understand tags, strucuture and other basic HHTML, CSS fundementals to create A static site generator made sense for simplicity, performance, and version control friendly content this also been a bonus as it zero cost and linked to github.
