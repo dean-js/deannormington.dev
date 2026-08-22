@@ -8,7 +8,7 @@ description: "My journey dropping out of law to pivot back to my passion for IT.
   <h1>About Me</h1>
   <p class="about-story-header"><strong>My Story</strong></p>
 
-<p class="about-bio">True passion always finds a way back. After regretting walking away from software development as a teenager, and later realizing law wasn't for me, I pivoted back to IT with a completely renewed focus.</p>
+<p class="about-bio">True passion always finds a way back. After regretting walking away from software development as a teenager, and later realizing law wasn't for me and oter personal commitments, I pivoted back to IT with a completely renewed focus and mindset.</p>
 
 <p class="about-bio">As an adult, I’ve tackled my goals head-on. I have been channelizing my analytical background into NCFE Level 3 Cyber Security studies, mastering software development fundamentals, and building practical, hands-on projects. Today, I’m a resilient, adaptable tech enthusiast ready to launch my career.</p>
 
