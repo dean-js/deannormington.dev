@@ -23,13 +23,13 @@ This post is a summary of my personal portfolio project journey. From initial co
 
 ## Project Genesis
 
-I decided to build a personal portfolio to showcase my work across three main areas:
+I decided to build a small personal portfolio to begin with to  showcase my understanding and completed functional websites or applications across three main areas:
 
-- Legal technology projects and insights
-- Software development learning and projects
-- Cybersecurity studies and progress
+- Legal technology project - Legal Fee calculator
+- Software development learning - Through building portfolio website, oter demo sites showcasing skillset in creating interactive, functional, secure and engaging webesites of different types.
+- Cybersecurity studies in cybersecurity systems and practices - This enhacing and refreshing knowledge ion a variety of areas and deepening undertanding of networkijng, strectures, frameworks and more this allowing me to if wanting to potentially break into entry-level cybersecurity role
 
-A static site generator made sense for simplicity, performance, and version control friendly content.
+Using jekyll for this to create A static site generator made sense for simplicity, performance, and version control friendly content.
 
 ## Technology Stack
 
@@ -115,4 +115,4 @@ The portfolio is organized into several key sections:
 
 Building this portfolio has been a valuable exercise in web development fundamentals. It serves as both a showcase of my work and a learning project where I can experiment with design and layout decisions. The modular structure makes it easy to add new content and iterate on the design as my skills grow.
 
-This site is a living document of my transition from law to technology, and I plan to continue evolving it as my projects and skills develop.
+This site is a living document of my transition from law to technology, and I plan to continue to evolve and update continously  as my projects, portoflio and skills develop.
