@@ -1,11 +1,11 @@
 ---
 layout: project
 title: 100 Days of Code Challenge
-overview: "A daily coding challenge to practice and build small projects, document learning, and track progress over 100 consecutive days."
+overview: "A daily coding challenge to practice and build small projects, document learning, and track progress over 100 consecutive days.holding myself accountable daily, showcasing highs and lows, ensuring i understand fundemetnals and other knowledge through various projects"
 features:
   - Daily coding tasks and short projects
   - Progress log and reflections
-  - Small web utilities and demos
+  - Small concept company and demo websites
 technologies: "HTML, CSS, JavaScript, Jekyll"
 github: ""
 screenshots: []
