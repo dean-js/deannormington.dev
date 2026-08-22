@@ -1,7 +1,7 @@
 ---
 layout: project
 title: NCFE Level 3 Certificate in Cyber Security Practice
-overview: "A Level 3 Certificate in Cyber Security Practice covering fundamentals of network security, threat analysis, and practical lab-based exercises."
+overview: "A Level 3 Certificate in Cyber Security Practices covering fundamental knowledge in cybersecurity sector thhis inlcuding threat models, network security, threat analysis, security frameworks, planning and implementing security controls and practical lab-based exercises and simulations."
 features:
   - Online practical labs - Using a variety of software used in Cybersecurity industry throughh excercises and simulatiojn practices
   - Security fundamentals and best practices used in cybersecurity sector

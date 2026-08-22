@@ -20,7 +20,7 @@ Key Python fundamentals: variables, data types, control flow, functions and modu
 
 ## Fun Python Projects
 
-Writing basic scriuupts and creating beginner friendly python projects suchh as games and others to gain basic fundemental understadning of the code, how different types work in processing data and creating variety of projects using python
+Writing basic scriuupts and creating beginner friendly python projects such as games and others to gain basic fundemental understadning of the code, how different types work in processing data and creating variety of projects using python
 
 ## Creating Tools: Cybersecurity tools
 
@@ -32,4 +32,4 @@ Testing such projects and tools to ensure functionality and ease of use while re
 
 ## Next Steps
 
-Other future projects may include: web scraping, automation, small web apps, and using radspbvewrry pi for other projects this will soon be showcased in portfolio or projects page. 
+Other future projects may include: web scraping, automation, small web apps, and using Raspberry pi for other projects this will soon be showcased in portfolio or projects page. 

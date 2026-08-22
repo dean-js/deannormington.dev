@@ -16,7 +16,7 @@ description: "Hands-on Raspberry Pi projects useful for a wide range of techhnic
 
 ## Home Lab Gateway
 
-Using a Pi as an always-on gateway: static IP, SSH hardening, and basic monitoring to keep your home lab reachable and secure.
+Using a Pi as part of the build : using this as a server or portable lab machine.
 
 ## Portable Pen-Testing Lab
 
@@ -24,12 +24,12 @@ Lightweight Kali-like setup on a Pi for low-cost, portable lab work; includes le
 
 ## Fun Projects 
 
-Simple sensor projects (temperature, motion) demonstrating data collection, logging and visualization options.
+budget creative projects, more expensive projects, using the raspberry pi to branch into a vcariety of fun projects to learn new skills and create in my spare time around work based tasks.
 
 ## Automation
 
-Using the Pi for scheduled tasks: backups, sync, and small automation scripts (e.g., `rsync` cron jobs) to improve reliability.
+Using the Pi for scheduled tasks: backups, sync, and small automation scripts (e.g., this seen in gardening projects) to improve data reliability.
 
 ## Resources & Parts
 
-Ensuring projects are completed using reputable budget suppliers and parts
+Ensuring projects are completed using reputable budget suppliers and parts supporting indpendent suppliers within the community in-person or online.
