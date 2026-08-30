@@ -6,7 +6,7 @@ description: "A curated gallery of my finished applications showcasing my core s
 
 <section class="portfolio-grid">
   <h1>My Portfolio</h1>
-  <p>Here are some of the projects I've worked on during my transition to software development.</p>
+  <p>A look at what I've built on the way into web development and e-commerce.</p>
   
   <div class="projects-grid">
     <!-- Add your projects here -->

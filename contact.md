@@ -6,7 +6,7 @@ description: "Get in touch with me for collaborations, technical discussions, or
 
 <section class="contact-section page-section">
   <h1>Work With Me</h1>
-  <p>I help individuals and small businesses with web development, automation, and practical cybersecurity work. If you'd like a friendly, no-pressure conversation about a paid project, scope, or consultancy, pick one of the options below.</p>
+  <p>I help individuals and small businesses with web development, Shopify builds, and the kind of ongoing support that comes from a genuine customer service background. If you'd like a friendly, no-pressure conversation about a project, scope, or consultancy, pick one of the options below.</p>
 
   <div class="learning-path">
     <div class="learning-item">

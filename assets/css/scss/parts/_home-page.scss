@@ -37,14 +37,22 @@
   text-align: left;
 }
 
+.hero-eyebrow {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.8rem;
+  color: $accent;
+  letter-spacing: 0.04em;
+  margin-bottom: 1rem;
+}
+
 .hero-avatar {
   margin: 0 auto 1.5rem;
   width: 100px;
   height: 100px;
   border-radius: 50%;
   overflow: hidden;
-  border: 3px solid $white;
-  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.25);
+  border: 3px solid $lightgray;
+  box-shadow: 0 1rem 2rem rgba(20, 23, 27, 0.12);
 }
 
 .hero-avatar img {
@@ -80,6 +88,7 @@
   gap: 0.75rem;
   padding: 1.5rem 1rem;
   text-align: center;
+  border-top: 1px solid $gray;
 }
 
 .footer-meta {
@@ -115,7 +124,7 @@
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background: rgba(0, 0, 0, 0.06);
+  background: rgba(20, 23, 27, 0.05);
   transition:
     transform 0.2s,
     background 0.2s,
@@ -124,17 +133,17 @@
 
 .footer-social a:hover {
   color: $accent;
-  background: rgba(0, 0, 0, 0.13);
+  background: rgba(14, 124, 134, 0.12);
   transform: translateY(-1px);
 }
 
 .hero-content h1 {
-  font-size: clamp(2.6rem, 5vw, 3.2rem);
-  color: $accent;
+  font-size: clamp(2.4rem, 5vw, 3rem);
+  color: $text;
   margin-bottom: 1rem;
-  font-weight: inherit;
-  font-family: "Playfair Display", "PT Serif", serif;
-  line-height: 1.05;
+  font-weight: 800;
+  font-family: "Sora", sans-serif;
+  line-height: 1.1;
 }
 
 /* Education timeline styles - matches site theme */
@@ -156,14 +165,14 @@
   border-radius: 50%;
   background: $accent;
   margin-top: 6px;
-  box-shadow: 0 0 0 4px rgba(43, 197, 160, 0.07);
+  box-shadow: 0 0 0 4px rgba(14, 124, 134, 0.1);
 }
 .timeline-card {
-  background: rgba(255, 255, 255, 0.02);
-  border: 1px solid rgba(255, 255, 255, 0.04);
+  background: $lightgray;
+  border: 1px solid $gray;
   padding: 0.9rem 1rem;
   border-radius: 8px;
-  color: $white;
+  color: $text;
 }
 .timeline-date {
   display: inline-block;
@@ -173,12 +182,12 @@
 }
 .timeline-card h3 {
   margin: 0 0 0.25rem;
-  color: $accent;
-  font-weight: 500;
+  color: $text;
+  font-weight: 600;
 }
 .timeline-institution {
   display: block;
-  color: $body-color;
+  color: $dark-gray;
   font-size: 0.95rem;
   margin-bottom: 0.5rem;
 }
@@ -195,24 +204,25 @@
 
 .hero-content p {
   font-size: 1rem;
-  color: $white;
+  color: $text;
   max-width: 760px;
   margin: 0 0 1.5rem;
   line-height: 1.8;
 }
 
 .hero-content .hero-tagline {
-  font-size: 1.05rem;
-  letter-spacing: 0.02em;
+  font-size: 1.1rem;
+  letter-spacing: 0.01em;
+  color: $body-color;
 }
 
 .hero-bio,
 .about-bio {
-  color: $white;
+  color: $text;
 }
 
 .panel-note {
-  color: $dark-gray;
+  color: $body-color;
   margin-bottom: 1.25rem;
 }
 
@@ -240,7 +250,7 @@
 
 .pillar-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1.5rem;
 }
 
@@ -251,14 +261,18 @@
 
 .pillar-card:hover {
   transform: translateY(-4px);
-  border-color: rgba(43, 197, 160, 0.35);
-  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+  border-color: rgba(14, 124, 134, 0.35);
+  box-shadow: 0 16px 32px rgba(20, 23, 27, 0.08);
 }
 
 .pillar-card h3 {
   margin-bottom: 1rem;
-  color: #f8fafc;
-  font-size: 1.35rem;
+  color: $text;
+  font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
 }
 
 .pillar-card p {
@@ -267,12 +281,23 @@
   line-height: 1.75;
 }
 
+.pillar-tag {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  background: rgba(91, 76, 196, 0.1);
+  color: $pulse;
+}
+
 .highlight-card {
-  background: rgba(13, 17, 23, 0.95);
-  border: 1px solid rgba(43, 197, 160, 0.18);
+  background: $lightgray;
+  border: 1px solid $gray;
   padding: 1.75rem;
   border-radius: 18px;
-  box-shadow: 0 14px 35px rgba(0, 0, 0, 0.42);
+  box-shadow: 0 10px 26px rgba(20, 23, 27, 0.05);
 }
 
 .panel-heading {
@@ -298,9 +323,10 @@
 .panel-heading span,
 .section-label {
   display: inline-flex;
+  font-family: "JetBrains Mono", monospace;
   color: $accent;
-  font-size: 0.9rem;
-  letter-spacing: 0.18em;
+  font-size: 0.85rem;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
 }
 
@@ -308,7 +334,7 @@
 .highlight-card h3,
 .section-head h2,
 .security-card h3 {
-  color: $white;
+  color: $text;
   margin: 0;
   font-size: clamp(1.45rem, 2vw, 2rem);
 }
@@ -328,14 +354,14 @@
   padding: 0.85rem 1.4rem;
   border-radius: 999px;
   background: $dark-blue;
-  color: $white;
+  color: $on-accent;
   text-decoration: none;
   font-weight: 700;
   transition:
     transform 0.2s,
     background 0.2s;
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 12px 24px rgba(20, 23, 27, 0.14);
   -webkit-appearance: none;
   appearance: none;
 }
@@ -347,15 +373,15 @@
 
 .tracker-card,
 .security-card {
-  background: rgba(13, 17, 23, 0.95);
-  border: 1px solid rgba(43, 197, 160, 0.14);
+  background: $lightgray;
+  border: 1px solid $gray;
   padding: 1.75rem;
   border-radius: 18px;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 10px 24px rgba(20, 23, 27, 0.05);
 }
 
 .tracker-bar {
-  background: rgba(255, 255, 255, 0.06);
+  background: $gray;
   border-radius: 999px;
   overflow: hidden;
   height: 16px;
@@ -383,7 +409,19 @@
 .security-grid a {
   text-decoration: none;
   color: inherit;
-  display: block;
+}
+
+.security-grid a .security-card {
+  transition:
+    transform 0.25s ease,
+    border-color 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.security-grid a:hover .security-card {
+  transform: translateY(-4px);
+  border-color: rgba(91, 76, 196, 0.35);
+  box-shadow: 0 16px 32px rgba(20, 23, 27, 0.08);
 }
 
 .blog-filter {
@@ -401,16 +439,18 @@
 }
 
 .filter-pill {
-  padding: 0.65rem 1rem;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.8rem;
+  padding: 0.5rem 0.9rem;
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.08);
-  color: $white;
+  background: rgba(20, 23, 27, 0.04);
+  color: $text;
   text-decoration: none;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid $gray;
 }
 
 .filter-pill:hover {
-  background: rgba(43, 197, 160, 0.12);
+  background: rgba(14, 124, 134, 0.1);
   border-color: $accent;
   color: $accent;
 }
@@ -432,7 +472,7 @@
     margin: 0 auto 10px;
     border-radius: 50%;
     overflow: hidden;
-    background-color: $dark;
+    background-color: $gray;
 
     img {
       width: 100%;
@@ -474,7 +514,7 @@
       position: absolute;
       top: 50%;
       left: 0;
-      background-color: $body-color;
+      background-color: $gray;
     }
     &::after {
       content: "";
@@ -485,7 +525,7 @@
       position: absolute;
       top: 50%;
       right: 0;
-      background-color: $body-color;
+      background-color: $gray;
     }
   }
   ul {
@@ -506,7 +546,7 @@
         font-size: 18px;
         transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
         &:hover {
-          color: $dark;
+          color: $accent;
           transform: scale(1.2);
         }
       }
@@ -531,16 +571,16 @@ footer {
   align-items: stretch;
   min-height: 11rem;
   border-radius: 12px;
-  background: #0f172a;
-  color: #f8fafc;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: $lightgray;
+  color: $text;
+  border: 1px solid $gray;
   overflow: hidden;
   transition: all 0.3s ease;
-  box-shadow: 0 9px 20px rgba(15, 23, 42, 0.35);
+  box-shadow: 0 8px 18px rgba(20, 23, 27, 0.05);
   &:hover {
     transform: translateY(-3px);
-    border-color: rgba(0, 0, 0, 0.18);
-    box-shadow: 0 16px 30px rgba(0, 0, 0, 0.16);
+    border-color: rgba(14, 124, 134, 0.3);
+    box-shadow: 0 14px 28px rgba(20, 23, 27, 0.09);
   }
 
   .post-thumbnail {
@@ -558,7 +598,7 @@ footer {
     flex-direction: column;
     justify-content: space-between;
     gap: 0.8rem;
-    color: #e5e7eb;
+    color: $body-color;
     .post-date,
     .post-words {
       font-size: 12px;
@@ -571,13 +611,13 @@ footer {
       a {
         font-family: inherit;
         text-decoration: none;
-        color: #f8fafc;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+        color: $text;
+        border-bottom: 1px solid $gray;
       }
     }
     p {
       margin-top: 0;
-      color: #e5e7eb;
+      color: $body-color;
     }
   }
 }
@@ -604,7 +644,7 @@ a.newer-posts:hover {
 }
 
 .portfolio-grid h1 {
-  color: $white;
+  color: $text;
   margin-bottom: 1rem;
 }
 
@@ -629,12 +669,13 @@ a.newer-posts:hover {
   width: 100%;
   text-decoration: none;
   color: inherit;
-  border-left: 5px solid $dark-blue;
+  border: 1px solid $gray;
+  border-left: 5px solid $accent;
   padding: 1.5rem 1.5rem 1.5rem 1.35rem;
   text-align: center;
-  background-color: $gray;
+  background-color: $lightgray;
   border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 6px 16px rgba(20, 23, 27, 0.05);
   transition: transform 0.3s;
 }
 
@@ -653,7 +694,7 @@ a.newer-posts:hover {
 }
 
 .project-card h3 {
-  color: $white;
+  color: $text;
   margin-bottom: 0.5rem;
 }
 
@@ -670,7 +711,7 @@ a.newer-posts:hover {
   object-fit: cover;
   border-radius: 6px;
   margin-bottom: 0.75rem;
-  background: rgba(0, 0, 0, 0.06);
+  background: rgba(20, 23, 27, 0.06);
 }
 
 /* If a card contains a thumbnail, ensure content spacing is consistent */
@@ -694,13 +735,9 @@ a.newer-posts:hover {
   margin: 0 auto 2rem;
   padding: 2rem;
   border-radius: 12px;
-  background: rgba(6, 8, 14, 0.95);
-
-  .page-section h1 {
-    color: $accent;
-  }
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  background: $lightgray;
+  border: 1px solid $gray;
+  box-shadow: 0 8px 20px rgba(20, 23, 27, 0.04);
   text-align: left;
 }
 
@@ -712,9 +749,9 @@ a.newer-posts:hover {
 }
 
 .page-section h1 {
-  font-family: "PT Serif", serif;
-  font-weight: 400;
-  letter-spacing: 0.01em;
+  font-family: "Sora", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
 .about-section {
@@ -723,7 +760,7 @@ a.newer-posts:hover {
 }
 
 .about-section h1 {
-  color: $white;
+  color: $text;
   margin-bottom: 1rem;
 }
 
@@ -746,11 +783,11 @@ a.newer-posts:hover {
 }
 
 .learning-item {
-  background: rgba(13, 17, 23, 0.95);
-  border: 1px solid rgba(43, 197, 160, 0.18);
+  background: $lightgray;
+  border: 1px solid $gray;
   padding: 1.75rem 1.75rem 2rem;
   border-radius: 18px;
-  box-shadow: 0 14px 35px rgba(0, 0, 0, 0.42);
+  box-shadow: 0 10px 24px rgba(20, 23, 27, 0.05);
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -763,8 +800,8 @@ a.newer-posts:hover {
 
 .learning-item:hover {
   transform: translateY(-4px);
-  border-color: rgba(43, 197, 160, 0.35);
-  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+  border-color: rgba(14, 124, 134, 0.35);
+  box-shadow: 0 16px 32px rgba(20, 23, 27, 0.08);
 }
 
 /* Ensure buttons inside cards have breathing room and don't clip */
@@ -783,7 +820,7 @@ a.newer-posts:hover {
 }
 
 .learning-item h3 {
-  color: $white;
+  color: $text;
   margin-bottom: 1rem;
   font-size: 1.25rem;
 }
@@ -840,8 +877,8 @@ a.newer-posts:hover {
   }
 
   .hero-content h1 {
-    font-size: clamp(2rem, 8vw, 2.8rem);
-    line-height: 1.1;
+    font-size: clamp(2rem, 8vw, 2.6rem);
+    line-height: 1.15;
   }
 
   .hero-content p,
@@ -861,18 +898,18 @@ a.newer-posts:hover {
 }
 
 .contact-section {
-  background: rgba(8, 11, 18, 0.98);
+  background: $lightgray;
   padding: 3rem 1.25rem;
   border-radius: 12px;
   width: 100%;
   max-width: 650px;
   margin: 0 auto 3rem;
-  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.45);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 26px rgba(20, 23, 27, 0.06);
+  border: 1px solid $gray;
 }
 
 .contact-section h1 {
-  color: $white;
+  color: $text;
   margin-bottom: 0.5rem;
 }
 
@@ -890,7 +927,7 @@ a.newer-posts:hover {
 }
 
 .contact-section label {
-  color: $white;
+  color: $text;
   font-weight: 600;
 }
 
@@ -899,9 +936,9 @@ a.newer-posts:hover {
   width: 100%;
   padding: 0.9rem 1rem;
   border-radius: 8px;
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  background: rgba(255, 255, 255, 0.05);
-  color: $white;
+  border: 1px solid $gray;
+  background: rgba(20, 23, 27, 0.02);
+  color: $text;
   font-family: inherit;
   font-size: 1rem;
   line-height: 1.6;
@@ -916,13 +953,13 @@ a.newer-posts:hover {
 
 .contact-section input::placeholder,
 .contact-section textarea::placeholder {
-  color: rgba($white, 0.65);
+  color: rgba($text, 0.5);
 }
 
 .contact-section input:focus,
 .contact-section textarea:focus {
-  border-color: $dark-blue;
-  box-shadow: 0 0 0 3px rgba(0, 212, 170, 0.2);
+  border-color: $accent;
+  box-shadow: 0 0 0 3px rgba(14, 124, 134, 0.16);
 }
 
 .contact-section textarea {
@@ -934,14 +971,14 @@ a.newer-posts:hover {
   display: inline-block;
   width: fit-content;
   background-color: $dark-blue;
-  color: $white;
+  color: $on-accent;
   border: none;
   border-radius: 8px;
   padding: 0.85rem 1.5rem;
   font-weight: 700;
   cursor: pointer;
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.18);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 12px 24px rgba(20, 23, 27, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.12);
   -webkit-appearance: none;
   appearance: none;
   transition:
@@ -967,10 +1004,10 @@ a.newer-posts:hover {
 }
 
 .post-item {
-  color: #f8fafc;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  color: $text;
+  border-bottom: 1px solid $gray;
   border-radius: 12px;
-  box-shadow: 0 9px 20px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 6px 16px rgba(20, 23, 27, 0.04);
   padding: 1.4rem 1.2rem;
   transition:
     box-shadow 0.25s ease,
@@ -979,8 +1016,8 @@ a.newer-posts:hover {
 
 .post-item:hover {
   transform: translateY(-3px);
-  border-color: rgba(0, 0, 0, 0.18);
-  box-shadow: 0 16px 30px rgba(0, 0, 0, 0.16);
+  border-color: rgba(14, 124, 134, 0.3);
+  box-shadow: 0 14px 26px rgba(20, 23, 27, 0.08);
 }
 
 .post-item h2 {
@@ -1011,13 +1048,9 @@ a.newer-posts:hover {
 .post-item p {
   margin-bottom: 0.8rem;
   line-height: 1.6;
-  border-radius: 12px;
-  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.35);
 }
 .post-item .read-more {
-  background: #0f172a;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  color: #f8fafc;
+  color: $accent;
   font-weight: 700;
 }
 

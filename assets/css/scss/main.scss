@@ -39,7 +39,7 @@ body {
   left: -999px;
   top: 0;
   background: $dark;
-  color: $white;
+  color: $on-accent;
   padding: 0.75rem 1rem;
   z-index: 1500;
   transition: left 0.2s ease;
@@ -62,16 +62,19 @@ pre {
 
 h1,
 h2 {
-  color: $accent;
-  font-weight: 400;
+  font-family: "Sora", sans-serif;
+  color: $text;
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
 h3,
 h4,
 h5,
 h6 {
+  font-family: "Sora", sans-serif;
   color: $text;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 img {
@@ -149,7 +152,7 @@ table thead {
 table thead th {
   font-size: 14px;
   font-weight: bold;
-  color: $text;
+  color: $on-accent;
   border-left: 1px solid $gray;
 }
 table thead th:first-child {
@@ -159,7 +162,7 @@ table thead th:first-child {
 table tfoot {
   font-size: 14px;
   font-weight: bold;
-  color: $text;
+  color: $on-accent;
   background: $dark;
   border-top: 2px solid $gray;
 }
@@ -167,10 +170,16 @@ table tfoot td {
   font-size: 14px;
 }
 
+/* ---------- Nav / wordmark ---------- */
 .navbar {
-  background-color: $dark;
-  padding: 0.5rem 0;
+  background-color: rgba(245, 246, 247, 0.92);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  padding: 0.75rem 0;
   position: sticky;
+  top: 0;
+  z-index: 20;
+  border-bottom: 1px solid $gray;
   code {
     border: 0;
     padding-right: 0;
@@ -180,7 +189,7 @@ table tfoot td {
     word-wrap: break-word;
   }
   gap: 0.5rem;
-  color: $white;
+  color: $text;
   font-size: 1.2rem;
   font-weight: bold;
   text-decoration: none;
@@ -196,20 +205,34 @@ table tfoot td {
   padding: 0 1rem;
 }
 
+.nav-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
 .nav-logo-avatar {
   width: 28px;
   height: 28px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid $white;
+  border: 2px solid $gray;
 }
 
 .nav-logo-text {
-  color: $accent;
+  font-family: "Sora", sans-serif;
   font-size: 1rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+.nav-logo-first {
+  font-weight: 800;
+  color: $text;
+}
+
+.nav-logo-last {
+  font-weight: 400;
+  color: $body-color;
 }
 
 .nav-menu {
@@ -224,14 +247,21 @@ table tfoot td {
 }
 
 .nav-link {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.8rem;
   color: $body-color;
   text-decoration: none;
-  font-weight: 300;
-  transition: color 0.3s;
+  font-weight: 500;
+  padding-bottom: 3px;
+  border-bottom: 1px solid transparent;
+  transition:
+    color 0.15s,
+    border-color 0.15s;
 }
 
 .nav-link:hover {
-  color: $accent;
+  color: $text;
+  border-color: $accent;
 }
 
 .wrapper {
@@ -269,18 +299,18 @@ a:focus-visible,
 button:focus-visible,
 input:focus-visible,
 textarea:focus-visible {
-  outline: 3px solid rgba(0, 212, 170, 0.75);
+  outline: 3px solid rgba(14, 124, 134, 0.75);
   outline-offset: 3px;
 }
 
 ::-moz-selection {
-  background: rgba(0, 212, 170, 0.8);
-  color: $background;
+  background: rgba(14, 124, 134, 0.25);
+  color: $text;
 }
 
 ::selection {
-  background: rgba(0, 212, 170, 0.8);
-  color: $background;
+  background: rgba(14, 124, 134, 0.25);
+  color: $text;
 }
 
 .clearfix::before,
@@ -311,7 +341,7 @@ textarea:focus-visible {
 .about-hero-tagline {
   margin-bottom: 2rem !important;
   font-size: 1.1rem;
-  color: $white;
+  color: $body-color;
 }
 
 // 2. Add breathing room between your bio paragraphs
@@ -320,7 +350,7 @@ textarea:focus-visible {
   margin-bottom: 1.5rem;
   line-height: 1.75;
   font-size: 1.05rem;
-  color: $white;
+  color: $text;
 }
 
 // 3. Keep long paragraphs from stretching too wide across the screen
@@ -371,7 +401,7 @@ textarea:focus-visible {
   top: 5px;
   bottom: 5px;
   width: 2px;
-  background: #19cc8b; /* Your signature teal/green brand color */
+  background: $accent; /* Circuit — signature brand accent */
 }
 
 .timeline-block {
@@ -387,16 +417,16 @@ textarea:focus-visible {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background: #19cc8b;
-  border: 2px solid #0b0c10; /* Matches your exact deep site background color */
-  box-shadow: 0 0 8px rgba(25, 204, 139, 0.6);
+  background: $accent;
+  border: 2px solid $background; /* Matches the page background so the dot reads as a cutout on the track */
+  box-shadow: 0 0 0 4px rgba(14, 124, 134, 0.12);
   z-index: 2;
 }
 
 /* Timeline data container blocks */
 .timeline-card {
-  background: #11141a; /* Matches the background shade of your existing cards */
-  border: 1px solid #1f232d;
+  background: $lightgray; /* Paper-raised */
+  border: 1px solid $gray;
   border-radius: 8px;
   padding: 18px;
 }
@@ -404,7 +434,7 @@ textarea:focus-visible {
 .timeline-date {
   font-size: 0.85rem;
   font-weight: bold;
-  color: #19cc8b;
+  color: $accent;
   display: block;
   margin-bottom: 3px;
 }
@@ -412,12 +442,12 @@ textarea:focus-visible {
 .timeline-card h3 {
   margin: 0 0 2px 0 !important;
   font-size: 1.15rem;
-  color: #ffffff;
+  color: $text;
 }
 
 .timeline-institution {
   font-size: 0.85rem;
-  color: #7a828e;
+  color: $dark-gray;
   display: block;
   margin-bottom: 8px;
 }
@@ -425,6 +455,6 @@ textarea:focus-visible {
 .timeline-card p {
   margin: 0;
   font-size: 0.95rem;
-  color: #c5c6c7;
+  color: $body-color;
   line-height: 1.5;
 }

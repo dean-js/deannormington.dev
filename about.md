@@ -1,18 +1,18 @@
 ---
 layout: main
 title: About Me | Dean Normington
-description: "My journey dropping out of law to pivot back to my passion for IT. Read about my training background, NCFE Level 3 cybersecurity studies, and software development goals."
+description: "Bradford-based web developer and Shopify builder with a background in customer service. Read about my training, my NCFE Level 3 cybersecurity studies, and how I chose hands-on e-commerce work over the traditional college route."
 ---
 
 <section class="page-section about-section">
   <h1>About Me</h1>
   <p class="about-story-header"><strong>My Story</strong></p>
 
-<p class="about-bio">True passion always finds a way back. After regretting walking away from software development as a teenager, and later realizing law wasn't for me alongside other personal commitments, I pivoted back to IT with a completely renewed focus and mindset.</p>
+<p class="about-bio">I'm Dean, a web developer and Shopify builder based in Bradford. True passion always finds a way back: after stepping away from software development as a teenager, and later realising law wasn't the right fit alongside other personal commitments, I pivoted back to tech with a clear head and a renewed focus.</p>
 
-<p class="about-bio">As an adult, I’ve tackled my goals head-on. I have been channeling my analytical background into NCFE Level 3 Cyber Security studies, mastering software development fundamentals, and building practical, hands-on projects. Today, I’m a resilient, adaptable tech enthusiast ready to launch my career.</p>
+<p class="about-bio">Before any of that, I spent time in customer service — and it's not a footnote. Knowing what it's like to be on the other end of a support ticket shapes how I build and how I work with people, just as much as the code does. Since then I've built on that with NCFE Level 3 Cyber Security studies, self-taught web development fundamentals, and a growing set of practical projects.</p>
 
-<p class="about-bio">I am actively seeking entry-level roles in Cyber Security, software development, or IT support to get my foot in the door, with the ultimate goal of growing into a specialist who can eventually serve my own clients.</p>
+<p class="about-bio">When a hands-on e-commerce role came up this year, I chose it over the traditional college route — real systems, real customers, and real Shopify work from day one, rather than waiting on a qualification to open that door. Formal study is still on the table further down the line; for now, I'm building my skills where the work is. The goal is straightforward: grow into a developer who can build and support sites and stores for small businesses, the way I'd want to be supported myself.</p>
   <h2>My Journey at a Glance</h2>
 <div class="education-timeline">
   {% for item in site.data.education %}
@@ -31,6 +31,24 @@ description: "My journey dropping out of law to pivot back to my passion for IT.
   <h2>My Learning Path</h2>
   <div class="learning-path">
     <div class="learning-item">
+      <h3>Customer Service &amp; Communication</h3>
+      <ul>
+        <li>Real customer service experience, not just client-facing polish</li>
+        <li>Technical writing</li>
+        <li>Plain, effective communication with clients and users</li>
+      </ul>
+    </div>
+    <div class="learning-item">
+      <h3>Courses &amp; Studies</h3>
+      <ul>
+        <li>NCFE Level 3 in Cybersecurity Systems (2026)</li>
+        <li>Computing (HNC) — on hold, chose hands-on e-commerce work first</li>
+        <li>Law (LLB) with Foundation Year — made the change back to tech</li>
+        <li>ICT Level 3 (BTEC) (2018)</li>
+        <li>ICT (GCSE) (2017)</li>
+      </ul>
+    </div>
+    <div class="learning-item">
       <h3>Certifications</h3>
       <ul>
         <li>FreeCodeCamp</li>
@@ -40,38 +58,20 @@ description: "My journey dropping out of law to pivot back to my passion for IT.
       </ul>
     </div>
     <div class="learning-item">
-      <h3>Courses & Studies</h3>
+      <h3>Technical Skills</h3>
+      <p>Independent coding practice, foundational programming milestones, and hands-on Shopify e-commerce work.</p>
       <ul>
-        <li>Computing (HNC) (awaiting start date: Sept 2026)</li>
-        <li>NCFE Level 3 in Cybersecurity Systems (2026)</li>
-        <li>Law (LLB) with Foundation Year - (made the change back to tech)</li>
-        <li>ICT Level 3 (BTEC) (2018)</li>
-        <li>ICT (GCSE) (2017)</li>
+        <li>Shopify store setup &amp; theme customisation</li>
+        <li>JavaScript fundamentals</li>
+        <li>Northcoders entry prep &amp; coding challenge problems</li>
       </ul>
     </div>
     <div class="learning-item">
             <h3>Extracurricular Activities</h3>
             <ul>
-                <li>Personal Projects</li>
-                <li>TryHackMe Rooms</li>
-                <li>Home Lab Setup</li>
-            </ul>
-        </div>
-<div class="learning-item">
-            <h3>Technical Skills</h3>
-            <p>Showcasing independent coding practice and foundational programming milestones.</p>
-            <ul>
-                <li>Northcoders Entry Prep</li>
-                <li>JavaScript Fundamentals</li>
-                <li>Coding Challenge Problems</li>
-            </ul>
-        </div>
-        <div class="learning-item">
-            <h3>Non-Related Skills</h3>
-            <ul>
-                <li>Customer Service</li>
-                <li>Technical Writing</li>
-                <li>Effective Communication</li>
+                <li>Personal projects</li>
+                <li>TryHackMe rooms</li>
+                <li>Home lab setup</li>
             </ul>
         </div>
 
