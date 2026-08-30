@@ -23,14 +23,14 @@ This post is a summary of my personal portfolio project journey. From initial co
 
 ## Project Genesis
 
-I decided to build a small personal portfolio to begin with when initially redisovering my passion and coming towards making the full pivot, this was to showcase current and developing understanding and completed functional websites or applications across three main areas:
+I decided to build a small personal portfolio to begin with, when I was initially rediscovering my passion and moving towards making the full pivot. This was to showcase current and developing understanding, and completed functional websites or applications, across three main areas:
 
-- Basic Web Development fundementals - Building Personal Portfolio with Blog  & other projects.
-- Used legal knowledge creating a Legal tech project - Legal Fee calculator.
-- Software development learning - Through building other demo websites and applications showcasing skillset in creating interactive, functional and secure digital products ensuring copany and  user satisfaction.
-- Cybersecurity studies in cybersecurity systems and practices - This enhacing and refreshing knowledge in a variety of areas and deepening undertanding of networking, , Security frameworks and more this enancing hands on knowledge using various softwares and  opening potential oppuurtunities  allowing me to break into entry-level cybersecurity roles
+- Basic web development fundamentals - building a personal portfolio with a blog & other projects.
+- Used legal knowledge to create a legal tech project - the Legal Fee Calculator.
+- Software development learning - through building other demo websites and applications, showcasing my skillset in creating interactive, functional, and secure digital products that ensure company and user satisfaction.
+- Cybersecurity studies in cybersecurity systems and practices - enhancing and refreshing knowledge across a variety of areas, deepening my understanding of networking and security frameworks, and building hands-on experience with various software, opening potential opportunities to break into entry-level cybersecurity roles.
 
-Using jekyll for thisProject initially when starting out was to understand tags, strucuture and other basic HHTML, CSS fundementals to create A static site generator made sense for simplicity, performance, and version control friendly content this also been a bonus as it zero cost and linked to github.
+Using Jekyll for this project initially made sense when starting out, as a way to understand tags, structure, and other basic HTML and CSS fundamentals. A static site generator made sense for simplicity, performance, and version-control-friendly content - this was also a bonus, being zero cost and linked to GitHub.
 
 ## Technology Stack
 
@@ -47,7 +47,7 @@ Using jekyll for thisProject initially when starting out was to understand tags,
 - Responsive mobile-first design
 - Clean, minimal typography
 - Focus on readability and content hierarchy
-- Gives user a personal insigt to who I am as a devloper.
+- Gives visitors a personal insight into who I am as a developer.
 
 ## Site Structure
 
@@ -73,7 +73,7 @@ The portfolio is organized into several key sections:
 
 ### Recent Improvements
 
-- Fixed blog category filtering to use post categories instead of tags 
+- Fixed blog category filtering to use post categories instead of tags
 - Added new blog categories (Tech Projects, Portfolio Posts)
 - Created project detail pages for Home Lab and Private AI Workstation
 - Unified typography and spacing across all pages
@@ -117,4 +117,4 @@ The portfolio is organized into several key sections:
 
 Building this portfolio has been a valuable exercise in web development fundamentals. It serves as both a showcase of my work and a learning project where I can experiment with design and layout decisions. The modular structure makes it easy to add new content and iterate on the design as my skills grow.
 
-This site is a living document of my transition from law to technology, and I plan to continue to evolve and update continously  as my projects, portoflio and skills develop.
+This site is a living document of my transition from law to technology, and I plan to continue to evolve and update it continuously as my projects, portfolio, and skills develop.

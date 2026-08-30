@@ -16,20 +16,20 @@ description: "Python learning path focusing on practical scripting and tool buil
 
 ## Basics
 
-Key Python fundamentals: variables, data types, control flow, functions and modules — with short examples and recommended resources to practice.
+Key Python fundamentals: variables, data types, control flow, functions, and modules — with short examples and recommended resources to practice.
 
 ## Fun Python Projects
 
-Writing basic scriuupts and creating beginner friendly python projects such as games and others to gain basic fundemental understadning of the code, how different types work in processing data and creating variety of projects using python
+Writing basic scripts and creating beginner-friendly Python projects, such as small games and other exercises, to build a fundamental understanding of the code, how different data types work when processing data, and creating a variety of projects using Python.
 
-## Creating Tools: Cybersecurity tools
+## Creating Tools: Cybersecurity Tools
 
-While studying my L3 in cybersecurity practices I decided to create build a A variety of tools to underastand ....
+While studying my Level 3 in cybersecurity practices, I decided to build a variety of tools to understand how they work under the hood - starting with a basic port scanner and expanding from there.
 
 ## Testing & Packaging
 
-Testing such projects and tools to ensure functionality and ease of use while remaning secure
+Testing these projects and tools to ensure functionality and ease of use while remaining secure.
 
 ## Next Steps
 
-Other future projects may include: web scraping, automation, small web apps, and using Raspberry pi for other projects this will soon be showcased in portfolio or projects page. 
+Other future projects may include web scraping, automation, small web apps, and using a Raspberry Pi for other projects - these will soon be showcased on the portfolio or projects page.

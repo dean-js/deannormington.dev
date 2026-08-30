@@ -6,11 +6,11 @@ features:
   - Cisco curriculum labs and exercises
   - Networking fundamentals and configuration
   - Practice scenarios for defensive techniques
-technologies: "Cisco packet tracer, networking fundamentals, Linux"
+technologies: "Cisco Packet Tracer, networking fundamentals, Linux"
 github: ""
 screenshots: []
 ---
 
-## Cisco learning notes
+## Cisco Learning Notes
 
-This page captures progress through Cisco Academy materials and lab writeups.
+This page captures progress through Cisco Academy materials and lab write-ups.

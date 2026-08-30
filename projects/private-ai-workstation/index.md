@@ -13,26 +13,4 @@ screenshots: []
 
 ## Overview
 
-This project page describes the Private AI Workstation, a self-hosted environment built to explore AI-assisted workflows, secure automation pipelines, and productivity tooling while preserving privacy and safety.
-
-## Features
-
-- Self-hosted AI model experimentation
-- Secure data processing and isolation
-- Automation for content generation and analysis
-
-## Technologies
-
-- Linux
-- Docker
-- Python
-- AI frameworks
-- Secure networking
-
-## GitHub Link
-
-Project repository:
-
-## Screenshots
-
--
+This project page describes the Private AI Workstation, a self-hosted environment built to explore AI-assisted workflows, secure automation pipelines, and productivity tooling while preserving privacy and safety. Read the full write-up in the [blog post](/from-frustration-to-freedom-ai-macbook/) on how it came together.

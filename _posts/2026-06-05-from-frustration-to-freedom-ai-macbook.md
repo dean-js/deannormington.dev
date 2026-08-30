@@ -4,7 +4,7 @@ title: "From Frustration to Freedom: How I Built a Private AI Workstation on My 
 date: 2026-06-05
 categories: [Software Development]
 tags:
-  [coding, ollama, local-ai, Artifical Intelligence, macbook, open-source, AI]
+  [coding, ollama, local-ai, artificial-intelligence, macbook, open-source, ai]
 description: "A personal case study on calibrating llama3.2:3b and Page Assist to run entirely offline on a 2014 Dual-Core i5 MacBook Pro with 16GB RAM."
 published: true
 ---
@@ -55,4 +55,4 @@ I didn't need a thousand-dollar upgrade or a cloud subscription to get an elite 
 
 ---
 
-### If you enjoyed this post, feel free to share it:
+### If you enjoyed this post, feel free to share it - and let me know if you've tried running AI locally on older hardware yourself.

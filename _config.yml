@@ -1,9 +1,8 @@
-title: Dean Normington | Aspring Web Developer & IT Professional
+title: Dean Normington | Aspiring Web Developer & IT Professional
 tagline: Aspiring Developer Building secure Software & Web solutions.
 description: > # this means to ignore newlines until "baseurl:"
   Personal portfolio and technical blog documenting the journey transitioning from law to tech sector, learning Software Engineering, Web development, and Cybersecurity.
 keywords: "Dean Normington, software developer, cybersecurity, legal tech, portfolio, full stack development, network security, FocusTask, entry level developer, tech blog, UK developer"
-permalink: "/title/"
 permalink: ":title/"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://deannormington.dev" # the base hostname & protocol for your site, e.g. http://example.com
@@ -12,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Dean Normington # add your name
 author-img: /assets/img/new-profile-picture.jpeg # add your profile image
-about-author: Software Developer & cybersecurity Student showcasing my journey from law to computing # add description
+about-author: Software Developer & Cybersecurity Student showcasing my journey from law to computing # add description
 social-twitter: Dean_undefined
 social-facebook: # add your Facebook handle
 social-github: dean-js # add your Github handle

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "intorduction to cybersecurity training - 1st week using tryhackme"
+title: "Introduction to Cybersecurity Training - Week 1 Using TryHackMe"
 date: 2026-06-04 23:05:00 +0000
 categories: [Software Development] # Options: [Legal Tech], [Software Development], [Cybersecurity], [Tech Projects], [Portfolio Posts]
 tags: [coding, portfolio, learning-notes]

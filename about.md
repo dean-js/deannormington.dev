@@ -8,9 +8,9 @@ description: "My journey dropping out of law to pivot back to my passion for IT.
   <h1>About Me</h1>
   <p class="about-story-header"><strong>My Story</strong></p>
 
-<p class="about-bio">True passion always finds a way back. After regretting walking away from software development as a teenager, and later realizing law wasn't for me and oter personal commitments, I pivoted back to IT with a completely renewed focus and mindset.</p>
+<p class="about-bio">True passion always finds a way back. After regretting walking away from software development as a teenager, and later realizing law wasn't for me alongside other personal commitments, I pivoted back to IT with a completely renewed focus and mindset.</p>
 
-<p class="about-bio">As an adult, I’ve tackled my goals head-on. I have been channelizing my analytical background into NCFE Level 3 Cyber Security studies, mastering software development fundamentals, and building practical, hands-on projects. Today, I’m a resilient, adaptable tech enthusiast ready to launch my career.</p>
+<p class="about-bio">As an adult, I’ve tackled my goals head-on. I have been channeling my analytical background into NCFE Level 3 Cyber Security studies, mastering software development fundamentals, and building practical, hands-on projects. Today, I’m a resilient, adaptable tech enthusiast ready to launch my career.</p>
 
 <p class="about-bio">I am actively seeking entry-level roles in Cyber Security, software development, or IT support to get my foot in the door, with the ultimate goal of growing into a specialist who can eventually serve my own clients.</p>
   <h2>My Journey at a Glance</h2>
@@ -43,10 +43,10 @@ description: "My journey dropping out of law to pivot back to my passion for IT.
       <h3>Courses & Studies</h3>
       <ul>
         <li>Computing (HNC) (awaiting start date: Sept 2026)</li>
-        <li>NCFE Level 3 In cybersecurity systems(2026)</li>
-        <li>Law (LLB) wiht foundation year - (made the change Back to Tech)</li>
+        <li>NCFE Level 3 in Cybersecurity Systems (2026)</li>
+        <li>Law (LLB) with Foundation Year - (made the change back to tech)</li>
         <li>ICT Level 3 (BTEC) (2018)</li>
-        <li>ICT (GCSE)(2017)</li>
+        <li>ICT (GCSE) (2017)</li>
       </ul>
     </div>
     <div class="learning-item">

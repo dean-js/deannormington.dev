@@ -18,6 +18,28 @@
   }
 }
 
+.back-to-blog {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 1.5rem;
+  padding: 0.4rem 0.9rem;
+  background: rgba(43, 197, 160, 0.08);
+  border: 1px solid rgba(43, 197, 160, 0.35);
+  color: $accent;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 999px;
+  transition:
+    background 0.25s,
+    transform 0.2s;
+  &:hover {
+    background: rgba(43, 197, 160, 0.18);
+    transform: translateY(-1px);
+  }
+}
+
 .page-cover-image {
   position: relative;
   padding: 0;

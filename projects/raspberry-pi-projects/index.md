@@ -11,25 +11,25 @@ tags:
 categories:
   - projects
   - hardware
-description: "Hands-on Raspberry Pi projects useful for a wide range of techhnical projects including home lab and fun inexpensive creative projects"
+description: "Hands-on Raspberry Pi projects useful for a wide range of technical projects, including home lab and fun, inexpensive creative projects."
 ---
 
 ## Home Lab Gateway
 
-Using a Pi as part of the build : using this as a server or portable lab machine.
+Using a Pi as part of the build - as a server or portable lab machine.
 
 ## Portable Pen-Testing Lab
 
-Lightweight Kali-like setup on a Pi for low-cost, portable lab work; includes legal & ethical cautions and recommended toolset.
+A lightweight, Kali-like setup on a Pi for low-cost, portable lab work; includes legal & ethical cautions and a recommended toolset.
 
-## Fun Projects 
+## Fun Projects
 
-budget creative projects, more expensive projects, using the raspberry pi to branch into a vcariety of fun projects to learn new skills and create in my spare time around work based tasks.
+Budget and slightly more involved creative projects, using the Raspberry Pi to branch into a variety of fun builds to learn new skills and create in my spare time around work.
 
 ## Automation
 
-Using the Pi for scheduled tasks: backups, sync, and small automation scripts (e.g., this seen in gardening projects) to improve data reliability.
+Using the Pi for scheduled tasks: backups, sync, and small automation scripts (for example, in gardening projects) to improve data reliability.
 
 ## Resources & Parts
 
-Ensuring projects are completed using reputable budget suppliers and parts supporting indpendent suppliers within the community in-person or online.
+Ensuring projects are completed using reputable budget suppliers and parts, supporting independent suppliers within the community, in-person or online.

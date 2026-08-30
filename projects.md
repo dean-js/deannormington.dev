@@ -10,7 +10,7 @@ description: "A diverse repository of my technical work, featuring a wide variet
   <div class="projects-grid">
   <a class="project-card" href="{{ '/projects/100-days-of-code/' | relative_url }}">
     <h3>100 Days of Code Challenge</h3>
-    <p>Starting the 100dayofcode of challenge to enhance fundemental coding skills and build daily coding practice and creating projects, documenting milestones, challenges faced, and learning outcomes.</p>
+    <p>Working through the 100 Days of Code challenge to build fundamental coding skills and a daily practice habit, creating projects and documenting milestones, challenges faced, and learning outcomes.</p>
   </a>
   <a class="project-card" href="{{ '/projects/ncfe-level-3/' | relative_url }}">
     <h3>NCFE Level 3 Certificate in Cyber Security Practice</h3>
@@ -19,11 +19,11 @@ description: "A diverse repository of my technical work, featuring a wide variet
   <!-- Add project details here -->
   <a class="project-card" href="{{ '/projects/cisco-cybersecurity-learning/' | relative_url }}">
     <h3>Cisco Cybersecurity Learning</h3>
-    <p>A free Online cybersecurity through Cisco Academy labs, network security exercises, and practical defensive techniques.</p>
+    <p>A free online cybersecurity course through Cisco Academy - labs, network security exercises, and practical defensive techniques.</p>
   </a>
-  <a class="project-card" href="{{ '/projects/home-lab-project/' | relative_url }}">
-    <h3>Home Lab Project</h3>
-    <p>Hands-on home lab experiments, network setups, defensive tooling, and documentation of practical security learning.</p>
+  <a class="project-card" href="{{ '/projects/cybersecurity-projects/' | relative_url }}">
+    <h3>Cybersecurity Projects & Development</h3>
+    <p>A running log of hands-on cybersecurity work - TryHackMe progress, home lab exercises, and other practical tasks completed to build and demonstrate real-world skills.</p>
   </a>
   <a class="project-card" href="{{ '/projects/private-ai-workstation/' | relative_url }}">
     <h3>My Private AI Workstation</h3>
@@ -36,7 +36,7 @@ description: "A diverse repository of my technical work, featuring a wide variet
 
   <a class="project-card" href="{{ '/projects/python-fundamentals/' | relative_url }}">
     <h3>Python Fundamentals</h3>
-    <p>Practical Python learning focused on scripting, automation and small tools (example: a basic port scanner), with testing and packaging guidance.</p>
+    <p>Practical Python learning focused on scripting, automation, and small tools (example: a basic port scanner), with testing and packaging guidance.</p>
   </a>
 
   <a class="project-card" href="{{ '/projects/raspberry-pi-projects/' | relative_url }}">
