@@ -14,7 +14,7 @@ Following on from choosing the e-commerce role over the traditional college rout
 
 ## Getting Hands-On with Shopify
 
-Shopify has been the main platform I've been learning through this role - from product listings and collections to the storefront theme and how the storefront connects to the backend. Coming from mostly self-taught HTML, CSS, and JavaScript, seeing how a production e-commerce platform structures all of this has been a genuinely useful step up.
+The role itself is an e-commerce admin assistant position, handling customer service, orders and returns for a local independent Islamic clothing retailer, and Shopify has been the main platform I've been learning through it - from product listings and collections to the storefront theme and how the storefront connects to the backend. Coming from mostly self-taught HTML, CSS, and JavaScript, seeing how a production e-commerce platform structures all of this has been a genuinely useful step up.
 
 Some of the areas I've been getting into:
 
@@ -29,7 +29,7 @@ This role ties together a few different threads I've been building on this site:
 
 ## What's Next
 
-I plan to keep documenting what I learn here as I go deeper into Shopify and e-commerce more broadly, and to start applying some of it to my own concept projects - including the coffeeshop concept site already on my portfolio.
+I plan to keep documenting what I learn here as I go deeper into Shopify and e-commerce more broadly, and to start applying some of it to my own concept projects - including the coffeeshop concept site already on my portfolio. I'm also currently working on a Shopify development store of my own, which I'm aiming to build out into a full concept company site as I go.
 
 ## Conclusion
 

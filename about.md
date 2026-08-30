@@ -12,7 +12,7 @@ description: "Bradford-based web developer and Shopify builder with a background
 
 <p class="about-bio">Before any of that, I spent time in customer service, and it's not a footnote. Knowing what it's like to be on the other end of a support ticket shapes how I build and how I work with people, just as much as the code does. Since then I've built on that with NCFE Level 3 Cyber Security studies, self-taught web development fundamentals, and a growing set of practical projects.</p>
 
-<p class="about-bio">When a hands-on e-commerce role came up this year, I chose it over the traditional college route: real systems, real customers, and real Shopify work from day one, rather than waiting on a qualification to open that door. Formal study is still on the table further down the line; for now, I'm building my skills where the work is. The goal is straightforward: grow into a developer who can build and support sites and stores for small businesses, the way I'd want to be supported myself.</p>
+<p class="about-bio">When a hands-on e-commerce role came up this year, I chose it over the traditional college route: I work as an e-commerce admin assistant, handling customer service, orders and returns for a local independent Islamic clothing retailer on Shopify, real systems, real customers, and real Shopify work from day one, rather than waiting on a qualification to open that door. Formal study is still on the table further down the line; for now, I'm building my skills where the work is. Alongside it, I'm building out a Shopify development store of my own into a concept company site, putting what I'm learning on the job into a project I control end to end. The goal is straightforward: grow into a developer who can build and support sites and stores for small businesses, the way I'd want to be supported myself.</p>
   <h2>My Journey at a Glance</h2>
 <div class="education-timeline">
   {% for item in site.data.education %}
@@ -64,7 +64,7 @@ description: "Bradford-based web developer and Shopify builder with a background
       <ul>
         <li>Shopify store setup &amp; theme customisation</li>
         <li>JavaScript fundamentals</li>
-        <li>Northcoders entry prep &amp; coding challenge problems</li>
+        <li>Northcoders: worked through the majority of the curriculum independently after being unable to enrol due to financial and personal circumstances at the time, building a solid understanding of JavaScript and small applications along the way</li>
       </ul>
     </div>
     <div class="learning-item">

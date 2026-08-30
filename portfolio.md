@@ -27,7 +27,7 @@ description: "A curated gallery of my finished applications showcasing my core s
     </div>
     <div class="project-card">
       <h3>Vape Assist</h3>
-      <p>A lightweight web tool for tracking vaping habits, with usage logging, cost tracking, and simple goal-setting to support cutting down.</p>
+      <p>A personal project built to help quit smoking, with a flavour profile, pod tracking, usage logging, cost tracking, and simple goal-setting to support cutting down.</p>
       <a href="{{ '/projects/vape-assist/' | relative_url }}" class="project-link">View Project</a>
     </div>
     <div class="project-card">

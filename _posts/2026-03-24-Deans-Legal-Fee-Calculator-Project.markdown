@@ -19,6 +19,8 @@ From a different perspective, as a first-year law student, not many others would
 
 In future, this could be a potential project route, so it doesn't feel like my time studying law was a complete loss or wasted - it could open doors to other legal tech projects down the line.
 
+Looking back, this project was more significant than it seemed at the time. I built it partly to keep the spark of my degree alive while I was still studying, using legal knowledge I already had rather than starting from nothing. Without quite realising it then, it acted as the first real step in pivoting back to tech - the start of building a portfolio around knowledge I already had, while picking up new knowledge through hands-on learning rather than a classroom.
+
 ## What Is Dean's Legal Fee Calculator?
 
 The app lets the user calculate an invoice of costs within a legal case. Depending on the type of case, features such as disbursements make it easier to add and calculate the overall cost to invoice a client, whether that's over email as a PDF or in print. The application lets the user add the type of legal personnel involved and any court costs or other costs, then automatically adds VAT at the end of the calculation in a total summary. It also implements the 6-minute billing rule, which splits each hour into 10 six-minute units:

@@ -1210,6 +1210,19 @@ textarea:focus-visible {
   line-height: 1.75;
 }
 
+.pillar-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: rgba(14, 124, 134, 0.1);
+  color: #0e7c86;
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
 .pillar-tag {
   font-family: "JetBrains Mono", monospace;
   font-size: 0.7rem;
