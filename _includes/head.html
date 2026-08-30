@@ -54,14 +54,14 @@
   />
   {% else %}
   <meta
-    content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}"
+    content="{{ site.url }}{{ site.baseurl }}{{ site.author-img }}"
     property="og:image"
   />
   <meta
     name="twitter:image:src"
-    content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}"
+    content="{{ site.url }}{{ site.baseurl }}{{ site.author-img }}"
   />
-  <meta property="og:image:alt" content="{{ site.author }} profile" />
+  <meta property="og:image:alt" content="{{ site.author }} logo" />
   {% endif %} {% if page.categories %} {% for category in page.categories
   limit:1 %}
   <meta content="{{ category }}" property="article:section" />
