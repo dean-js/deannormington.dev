@@ -431,6 +431,15 @@ textarea:focus-visible {
   border: 1px solid $gray;
   border-radius: 8px;
   padding: 18px;
+  box-shadow: 0 2px 8px rgba(20, 23, 27, 0.06);
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.timeline-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px rgba(20, 23, 27, 0.1);
 }
 
 .timeline-date {
@@ -459,4 +468,75 @@ textarea:focus-visible {
   font-size: 0.95rem;
   color: $body-color;
   line-height: 1.5;
+}
+
+/* ==========================================================================
+   Learning Path Styles (About Page)
+   ========================================================================== */
+
+.learning-path {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 20px;
+  margin: 30px 0 50px 0;
+}
+
+.learning-item {
+  background: $lightgray; /* Paper-raised, matches the timeline cards */
+  border: 1px solid $gray;
+  border-top: 3px solid $accent; /* Circuit accent to tie it back to the timeline */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(20, 23, 27, 0.06);
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease;
+}
+
+.learning-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 22px rgba(20, 23, 27, 0.1);
+}
+
+.learning-item h3 {
+  margin: 0 0 10px 0 !important;
+  font-size: 1.05rem;
+  color: $text;
+}
+
+.learning-item p {
+  margin: 0 0 10px 0;
+  font-size: 0.9rem;
+  color: $body-color;
+  line-height: 1.5;
+}
+
+.learning-item ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.learning-item li {
+  position: relative;
+  padding-left: 1.15rem;
+  margin-bottom: 7px;
+  font-size: 0.9rem;
+  color: $body-color;
+  line-height: 1.5;
+}
+
+.learning-item li:last-child {
+  margin-bottom: 0;
+}
+
+.learning-item li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: $accent;
 }

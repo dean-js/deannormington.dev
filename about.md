@@ -41,8 +41,8 @@ description: "Bradford-based web developer and Shopify builder with a background
     <div class="learning-item">
       <h3>Courses &amp; Studies</h3>
       <ul>
+        <li>Cybersecurity Practices Level 3 (Online Short Course), Think Employment (June&ndash;August 2026)</li>
         <li>NCFE Level 3 in Cybersecurity Systems (2026)</li>
-        <li>Computing (HNC), on hold: chose hands-on e-commerce work first</li>
         <li>Law (LLB) with Foundation Year (made the change back to tech)</li>
         <li>ICT Level 3 (BTEC) (2018)</li>
         <li>ICT (GCSE) (2017)</li>
@@ -51,6 +51,7 @@ description: "Bradford-based web developer and Shopify builder with a background
     <div class="learning-item">
       <h3>Certifications</h3>
       <ul>
+        <li>Shopify Certification (in progress)</li>
         <li>FreeCodeCamp</li>
         <li>TryHackMe</li>
         <li>W3Schools</li>
