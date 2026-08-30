@@ -233,7 +233,7 @@
 
 .home-panels {
   max-width: 1200px;
-  margin: 0 auto 2rem;
+  margin: 0 auto;
 }
 
 .panel-grid {
@@ -245,7 +245,7 @@
 
 .pillars {
   max-width: 1200px;
-  margin: 0 auto 2rem;
+  margin: 0 auto;
 }
 
 .pillar-grid {
@@ -730,15 +730,20 @@ a.newer-posts:hover {
   text-decoration: none;
 }
 
+/* Section shell: an unboxed block separated by a hairline, matching the
+   brand kit's own guide-section pattern. Individual cards inside (pillar,
+   tracker, security, highlight) keep their own boxing — this avoids
+   stacking a card-in-a-card look and gives sections room to breathe. */
 .page-section {
   max-width: 1000px;
-  margin: 0 auto 2rem;
-  padding: 2rem;
-  border-radius: 12px;
-  background: $lightgray;
-  border: 1px solid $gray;
-  box-shadow: 0 8px 20px rgba(20, 23, 27, 0.04);
+  margin: 0 auto;
+  padding: 3rem 1.25rem;
+  border-bottom: 1px solid $gray;
   text-align: left;
+}
+
+.page-section:last-of-type {
+  border-bottom: none;
 }
 
 .page-section h1,

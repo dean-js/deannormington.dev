@@ -12,6 +12,14 @@ categories:
   - projects
   - hardware
 description: "Hands-on Raspberry Pi projects useful for a wide range of technical projects, including home lab and fun, inexpensive creative projects."
+features:
+  - Home lab gateway and portable lab machine builds
+  - A lightweight, portable pen-testing lab setup
+  - Small creative and hardware side projects
+  - Scheduled automation - backups, sync, and small scripts
+technologies: "Raspberry Pi, Linux, Python, basic networking"
+github: ""
+screenshots: []
 ---
 
 ## Home Lab Gateway

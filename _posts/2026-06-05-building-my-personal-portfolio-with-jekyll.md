@@ -43,11 +43,11 @@ Using Jekyll for this project initially made sense when starting out, as a way t
 
 **Design Approach:**
 
-- Dark theme with neon green accents for visual identity
-- Responsive mobile-first design
-- Clean, minimal typography
-- Focus on readability and content hierarchy
-- Gives visitors a personal insight into who I am as a developer.
+- A proper brand kit: a light "paper and ink" palette with a teal accent (circuit) and a purple secondary accent (pulse), used sparingly
+- Sora for headings and the wordmark, Inter for body copy, JetBrains Mono for labels and navigation
+- Responsive, mobile-first design
+- Clean, minimal typography with a clear content hierarchy
+- Gives visitors a personal insight into who I am as a developer
 
 ## Site Structure
 
@@ -68,34 +68,44 @@ The portfolio is organized into several key sections:
 - Project listing with card-based layout and detail pages
 - Blog page with category-based filtering and jump links
 - Footer with social media links
-- Dark theme with consistent color palette
+- A consistent brand kit palette across every page
 - Mobile-friendly navigation and layout
 
 ### Recent Improvements
 
 - Fixed blog category filtering to use post categories instead of tags
 - Added new blog categories (Tech Projects, Portfolio Posts)
-- Created project detail pages for Home Lab and Private AI Workstation
+- Created project detail pages for the Private AI Workstation and other projects
 - Unified typography and spacing across all pages
-- Enforced neon green accent color throughout design
+- Adopted a proper brand kit and rebuilt the site's colours, type, and layout around it (see the Brand Refresh section below)
 
 ### Known Upcoming Work
 
 - Expand blog content with more posts in each category
 - Add more project showcase pages
 - Implement analytics and SEO optimization
-- Create automated deployment pipeline
-- Add dark/light theme toggle (future enhancement)
+- Create an automated deployment pipeline
 
 ## Design Decisions
 
-**Dark Theme:** Chosen for reduced eye strain and modern aesthetic appeal.
+**A light, paper-based theme:** Chosen for a calmer, more considered feel over the original dark theme, and because it reads as more "capable and calm" for a site clients might actually land on.
 
 **Category-Based Blog:** Allows readers to filter content by their interest area (legal tech, coding, security).
 
 **Project Cards:** Provides quick overview with links to detailed project pages.
 
 **Static Generation:** Ensures fast load times, easy version control, and minimal hosting complexity.
+
+## Brand Refresh (August 2026)
+
+A few months into running the site, I put together a proper personal brand kit rather than continuing to tweak colours ad hoc. It covers identity, logo usage, colour palette, typography, voice, and do's and don'ts, and the whole site has since been rebuilt around it:
+
+- **Palette:** Paper (background) and Ink (text) carry almost everything, with Circuit (a deep teal) as the main accent and Pulse (a muted purple) used sparingly for secondary highlights
+- **Type:** Sora for headings and the wordmark, Inter for body copy, JetBrains Mono for labels, tags, and navigation
+- **Logo:** A two-weight wordmark ("**Dean** Normington") as the primary mark, with a small "DN" monogram badge for the favicon and other small, round spaces
+- **Positioning:** Reframed around what I actually do day to day: web development, Shopify and e-commerce, and a genuine customer service background, with cyber security as a clearly-labelled growing focus rather than the headline
+
+It's a more deliberate, more "me" identity than the original dark theme, and one I plan to keep consistent across the site, LinkedIn, and anywhere else I show up.
 
 ## Lessons Learned
 

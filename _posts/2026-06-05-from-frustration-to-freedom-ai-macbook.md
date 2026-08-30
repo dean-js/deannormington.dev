@@ -9,13 +9,13 @@ description: "A personal case study on calibrating llama3.2:3b and Page Assist t
 published: true
 ---
 
-# From Frustration to Freedom: How I Built a Private AI Workstation on My Old 2014 MacBook Pro in 2026!
+# From Frustration to Freedom: How I Built a Private AI Workstation on My Old MacBook Pro
 
-We’ve all been taught that to do anything cool with Artificial Intelligence, you need a massive tech setup, an expensive monthly subscription, or a brand-new computer. For a long time, I believed that too. Every time I wanted to use AI to brainstorm blog posts or analyze a project, my data was being zipped across the internet to giant cloud data centers owned by massive tech corporations.
+We've all been taught that to do anything useful with artificial intelligence, you need a serious tech setup, an expensive monthly subscription, or a brand-new computer. For a long time, I believed that too. Every time I wanted to use AI to brainstorm blog posts or analyse a project, my data was being sent across the internet to a cloud data centre owned by a large tech company.
 
-I wanted a space where my ideas could stay entirely mine—100% private, offline, and secure. So, I looked at my trusty, older **Dual-Core i5 MacBook Pro with 16GB of RAM** and wondered: _Can this old laptop run its own brain?_
+I wanted a space where my ideas could stay entirely mine: private, offline, and secure. So I looked at my older **Dual-Core i5 MacBook Pro with 16GB of RAM** and wondered: _can this old laptop run its own brain?_
 
-The answer is yes—but it took some trial, error, and a bit of digital remodeling to get it right. Here is the personal story of how I turned my old Mac into a fully private, custom AI workstation.
+The answer is yes, but it took some trial, error, and a bit of digital remodelling to get it right. Here's the story of how I turned my old Mac into a fully private, custom AI workstation.
 
 ## The Rough Start: Facing the Laptop Bottleneck
 
@@ -23,7 +23,7 @@ My first attempt at local AI was incredibly basic. I used a tool called **Ollama
 
 It worked, but it was _rough_.
 
-Because my MacBook only has a dual-core processor, my custom code completely overwhelmed the laptop. The screen would lag, the cursor would freeze, and the AI kept hitting invisible walls—giving me frustratingly short, 200-word responses that would cut off right in the middle of a sentence. Even worse, if I stopped typing for five minutes, the system would completely dump the AI out of its memory. The next time I asked a question, my laptop fans would scream as the computer struggled to drag the model back into its **RAM**.
+Because my MacBook only has a dual-core processor, my custom code completely overwhelmed the laptop. The screen would lag, the cursor would freeze, and the AI kept hitting invisible walls, giving me frustratingly short, 200-word responses that would cut off right in the middle of a sentence. Even worse, if I stopped typing for five minutes, the system would completely dump the AI out of its memory. The next time I asked a question, my laptop fans would work overtime as the computer struggled to drag the model back into its **RAM**.
 
 ## The Breakthrough: Tweaking the Controls
 
@@ -51,7 +51,7 @@ Today, this setup has completely transformed how I work. When I click "New Chat,
 
 The best part? I can completely turn off my Wi-Fi, pull the plug on the internet, and the entire system runs flawlessly. Every draft I write, every coding project I brainstorm, and every personal note I take stays locked entirely inside the physical hard drive of my own machine.
 
-I didn't need a thousand-dollar upgrade or a cloud subscription to get an elite AI assistant—I just needed to unlock the hidden potential of the laptop I already owned.
+I didn't need an expensive upgrade or a cloud subscription to get a genuinely capable AI assistant. I just needed to unlock the potential the laptop already had.
 
 ---
 

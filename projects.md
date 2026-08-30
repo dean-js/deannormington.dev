@@ -14,7 +14,7 @@ description: "A diverse repository of my technical work, featuring a wide variet
   </a>
   <a class="project-card" href="{{ '/projects/ncfe-level-3/' | relative_url }}">
     <h3>NCFE Level 3 Certificate in Cyber Security Practice</h3>
-    <p>Online short course in cybersecurity through ThinkEmployment — foundational skills and practical labs to support professional development.</p>
+    <p>Online short course in cybersecurity through ThinkEmployment: foundational skills and practical labs to support professional development.</p>
   </a>
   <!-- Add project details here -->
   <a class="project-card" href="{{ '/projects/cisco-cybersecurity-learning/' | relative_url }}">
@@ -31,7 +31,7 @@ description: "A diverse repository of my technical work, featuring a wide variet
   </a>
   <a class="project-card" href="{{ '/projects/cybersecurity-fundamentals/' | relative_url }}">
     <h3>Cybersecurity Fundamentals</h3>
-    <p>Structured learning path covering defensive and offensive fundamentals — TryHackMe and HackTheBox guided tracks with lab setup and portfolio tips.</p>
+    <p>Structured learning path covering defensive and offensive fundamentals: TryHackMe and HackTheBox guided tracks with lab setup and portfolio tips.</p>
   </a>
 
   <a class="project-card" href="{{ '/projects/python-fundamentals/' | relative_url }}">
@@ -41,7 +41,7 @@ description: "A diverse repository of my technical work, featuring a wide variet
 
   <a class="project-card" href="{{ '/projects/raspberry-pi-projects/' | relative_url }}">
     <h3>Raspberry Pi Projects</h3>
-    <p>Hands-on Raspberry Pi builds for home-lab, portable testing, and IoT prototypes — hardware tips, network setup and automation examples.</p>
+    <p>Hands-on Raspberry Pi builds for home-lab, portable testing, and IoT prototypes: hardware tips, network setup and automation examples.</p>
   </a>
   </div>
   <!-- Add project details here -->

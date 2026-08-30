@@ -1,36 +1,35 @@
 ---
 layout: post
-title: "Introduction to Cybersecurity Training - Week 1 Using TryHackMe"
-date: 2026-06-04 23:05:00 +0000
-categories: [Software Development] # Options: [Legal Tech], [Software Development], [Cybersecurity], [Tech Projects], [Portfolio Posts]
-tags: [coding, portfolio, learning-notes]
-description: "A quick 1-2 sentence summary of what this post covers."
-published: false
+title: "Post Title Goes Here"
+date: 2026-01-01 12:00:00 +0000
+description: "A plain, one to two sentence summary of what this post covers and why it matters. This is what shows up in previews and search results."
+img: # optional - filename only, e.g. my-image.jpg (lives in /assets/img/)
+fig-caption: # optional - only used if img is set
+categories: [Software Development] # pick one or more: Legal Tech, Software Development, Cybersecurity, Tech Projects, Portfolio Posts
+tags: [] # short, lowercase, hyphenated: e.g. shopify, web-development, learning-notes
+published: false # flip to true when the post is ready to go live
 ---
 
 ## Introduction
 
-> Introduce the problem or the topic here. Why does this matter? Explain what sparked this project or research note.
+One or two short paragraphs: what is this post about, and why does it matter right now? Set the context plainly, the way you'd explain it to someone in a first message, not a pitch.
 
----
+Voice reminder: warm, direct, grounded. Short sentences over long ones. Back claims with what actually happened rather than generic statements. No em dashes, use a comma, colon, or a new sentence instead.
 
-## Heading 1: Detailed Breakdown
+## What I Did / What Happened
 
-Dive into the core content here. Break down your thoughts into clear, readable paragraphs. Use bold text for key terms to make it easy to scan.
+The main body of the post. Break it into clear paragraphs or a bullet list, whichever reads better for the content. Use a second `##` subheading here (renamed to fit the post) if there's a natural second section, for example "What I Built", "What I Learned", or "Why This Matters".
 
-Write your main thoughts and explanations here. You can separate different points into their own paragraphs to give your text room to breathe.
+## What I Learned / Key Takeaways
 
----
+- **First takeaway:** a short, specific point, not a generic platitude
+- **Second takeaway:** the same
+- **Third takeaway:** the same
 
-## Conclusion / Takeaways
+## What's Next
 
-Wrap up your thoughts with a quick summary of what you learned or what your next steps will be.
+A short, honest note on where this goes from here: the next step, the open question, or what you're planning to update on this page later.
 
-- **What went well:** [Brief note]
-- **What's next:** [Brief note]
+## Conclusion
 
----
-
-## Enjoyed this post?
-
-If you found this breakdown helpful or interesting, please **share it with your network on LinkedIn or Twitter/X**! Drop a comment below with your thoughts, or let me know how you tackle these types of challenges in your own workflow. Let's connect!
+Two or three sentences wrapping up the post: what it means for the wider journey (web development, Shopify and e-commerce, customer service, or the growing cyber security side), and what's coming next.

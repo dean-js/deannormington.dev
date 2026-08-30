@@ -10,9 +10,9 @@ description: "Bradford-based web developer and Shopify builder with a background
 
 <p class="about-bio">I'm Dean, a web developer and Shopify builder based in Bradford. True passion always finds a way back: after stepping away from software development as a teenager, and later realising law wasn't the right fit alongside other personal commitments, I pivoted back to tech with a clear head and a renewed focus.</p>
 
-<p class="about-bio">Before any of that, I spent time in customer service — and it's not a footnote. Knowing what it's like to be on the other end of a support ticket shapes how I build and how I work with people, just as much as the code does. Since then I've built on that with NCFE Level 3 Cyber Security studies, self-taught web development fundamentals, and a growing set of practical projects.</p>
+<p class="about-bio">Before any of that, I spent time in customer service, and it's not a footnote. Knowing what it's like to be on the other end of a support ticket shapes how I build and how I work with people, just as much as the code does. Since then I've built on that with NCFE Level 3 Cyber Security studies, self-taught web development fundamentals, and a growing set of practical projects.</p>
 
-<p class="about-bio">When a hands-on e-commerce role came up this year, I chose it over the traditional college route — real systems, real customers, and real Shopify work from day one, rather than waiting on a qualification to open that door. Formal study is still on the table further down the line; for now, I'm building my skills where the work is. The goal is straightforward: grow into a developer who can build and support sites and stores for small businesses, the way I'd want to be supported myself.</p>
+<p class="about-bio">When a hands-on e-commerce role came up this year, I chose it over the traditional college route: real systems, real customers, and real Shopify work from day one, rather than waiting on a qualification to open that door. Formal study is still on the table further down the line; for now, I'm building my skills where the work is. The goal is straightforward: grow into a developer who can build and support sites and stores for small businesses, the way I'd want to be supported myself.</p>
   <h2>My Journey at a Glance</h2>
 <div class="education-timeline">
   {% for item in site.data.education %}
@@ -42,8 +42,8 @@ description: "Bradford-based web developer and Shopify builder with a background
       <h3>Courses &amp; Studies</h3>
       <ul>
         <li>NCFE Level 3 in Cybersecurity Systems (2026)</li>
-        <li>Computing (HNC) — on hold, chose hands-on e-commerce work first</li>
-        <li>Law (LLB) with Foundation Year — made the change back to tech</li>
+        <li>Computing (HNC), on hold: chose hands-on e-commerce work first</li>
+        <li>Law (LLB) with Foundation Year (made the change back to tech)</li>
         <li>ICT Level 3 (BTEC) (2018)</li>
         <li>ICT (GCSE) (2017)</li>
       </ul>

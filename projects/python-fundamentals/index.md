@@ -12,11 +12,19 @@ categories:
   - projects
   - development
 description: "Python learning path focusing on practical scripting and tool building for automation and security."
+features:
+  - Core fundamentals - variables, data types, control flow, functions, modules
+  - Small beginner projects and games to practice the basics
+  - Custom tool building, starting with a basic port scanner
+  - Testing and packaging practice for functionality and ease of use
+technologies: "Python"
+github: ""
+screenshots: []
 ---
 
 ## Basics
 
-Key Python fundamentals: variables, data types, control flow, functions, and modules — with short examples and recommended resources to practice.
+Key Python fundamentals: variables, data types, control flow, functions, and modules, with short examples and recommended resources to practice.
 
 ## Fun Python Projects
 

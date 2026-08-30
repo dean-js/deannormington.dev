@@ -283,8 +283,10 @@ table tfoot td {
   background-color: $background;
 }
 
-a,
-a:visited {
+a {
+  /* Author-origin rule always beats the UA default :visited colour,
+     so button/link classes (e.g. .button-primary) don't need a separate
+     :visited override to stay legible once a link has been clicked. */
   color: inherit;
   text-decoration: none;
 }

@@ -13,6 +13,14 @@ categories:
   - projects
   - security
 description: "Foundational cybersecurity learning: TryHackMe & HackTheBox tracks, practical labs, and recommended resources."
+features:
+  - Defensive vs offensive fundamentals, mapped to real roles
+  - A guided TryHackMe starter path for beginners
+  - A HackTheBox progression path with write-up guidance
+  - Lab setup notes for a simple VM-based practice environment
+technologies: "TryHackMe, HackTheBox, Linux, VMs/VPN lab tooling"
+github: ""
+screenshots: []
 ---
 
 ## Defensive vs Offensive Learning
