@@ -1292,9 +1292,27 @@ textarea:focus-visible {
 
 .panel-grid {
   display: grid;
-  /* allow cards to scale down so 3 columns can appear on narrower viewports */
-  grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr));
+  /* wide enough that a long single "word" (e.g. a domain name) in a tile
+     heading has room to sit on one line before the 3-up layout kicks in */
+  grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr));
   gap: 1.5rem;
+}
+
+/* Keep a long unbroken run (like a domain name) on one line where there's
+   room, at a touch smaller than the heading text around it; only break it
+   as an absolute last resort so it never runs past the tile edge. */
+.panel-heading h2 .heading-domain,
+.pillar-card h3 .heading-domain,
+.security-card h3 .heading-domain {
+  font-family: inherit;
+  font-size: 0.78em;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: none;
+  letter-spacing: normal;
+  white-space: nowrap;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .pillars {
