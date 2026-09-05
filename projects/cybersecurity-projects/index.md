@@ -3,11 +3,11 @@ layout: project
 title: Cybersecurity Projects & Development
 overview: "A running log of hands-on cybersecurity project work - TryHackMe progress, home lab exercises, and other practical tasks completed to build and demonstrate real-world skills."
 features:
-  - TryHackMe rooms and walkthroughs - tracking rooms completed and skills practiced
-  - Home lab exercises - using an old laptop and computer as a server, practicing safely
+  - TryHackMe rooms and walkthroughs - tracking rooms completed and skills practised
+  - Home lab exercises - using an old laptop and computer as a server, practising safely
   - Virtual lab exercises and simulations across different Linux operating systems
   - Terminal fundamentals - navigating file systems and running core commands with confidence
-technologies: "Linux, Virtualization, TryHackMe, Wireshark, Ansible"
+technologies: "Linux, Virtualisation, TryHackMe, Wireshark, Ansible"
 github: ""
 screenshots: []
 ---
@@ -18,7 +18,7 @@ This page tracks my hands-on cybersecurity project work as it happens - a mix of
 
 ## TryHackMe Progress
 
-A running log of rooms completed and what each one covered - the skills practiced, the tools used, and what I took away from it. I'll update this section as I work through new rooms and paths.
+A running log of rooms completed and what each one covered - the skills practised, the tools used, and what I took away from it. I'll update this section as I work through new rooms and paths.
 
 ## Home Lab & Practical Exercises
 
@@ -26,7 +26,7 @@ Using an old laptop and computer as a home lab server, I've been practising sett
 
 ## Tools & Terminal Skills
 
-Building confidence navigating file systems and running core terminal commands, and getting hands-on with tools like Wireshark and basic virtualization and automation with Ansible.
+Building confidence navigating file systems and running core terminal commands, and getting hands-on with tools like Wireshark and basic virtualisation and automation with Ansible.
 
 ## What's Next
 

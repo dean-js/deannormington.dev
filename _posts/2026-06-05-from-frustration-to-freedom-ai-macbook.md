@@ -43,11 +43,11 @@ I baked a custom system prompt directly into the model's core files, teaching it
 
 1.  **The Expert:** Jump straight into the answer with zero conversational fluff, automatically **bolding** the most important technical terms.
 2.  **The Coach:** Lay out tutorials using clean, step-by-step action items and terminal code blocks.
-3.  **The Scholar:** Break down complex logic into a structured, formal analysis using clear, organized sections.
+3.  **The Scholar:** Break down complex logic into a structured, formal analysis using clear, organised sections.
 
 ## The Ultimate Victory: Total Sovereignty
 
-Today, this setup has completely transformed how I work. When I click "New Chat," my customized model answers immediately, beautifully formatting its text and emphasizing key ideas exactly the way I like to read them.
+Today, this setup has completely transformed how I work. When I click "New Chat," my customised model answers immediately, beautifully formatting its text and emphasizing key ideas exactly the way I like to read them.
 
 The best part? I can completely turn off my Wi-Fi, pull the plug on the internet, and the entire system runs flawlessly. Every draft I write, every coding project I brainstorm, and every personal note I take stays locked entirely inside the physical hard drive of my own machine.
 

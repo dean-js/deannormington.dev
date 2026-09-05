@@ -51,13 +51,13 @@ Using Jekyll for this project initially made sense when starting out, as a way t
 
 ## Site Structure
 
-The portfolio is organized into several key sections:
+The portfolio is organised into several key sections:
 
 1. **Homepage** - Hero section with tagline, learning card, featured projects
 2. **About** - Personal background and career transition narrative
 3. **Portfolio** - Showcase of completed projects and work samples
 4. **Projects** - Detailed project pages with descriptions and outcomes
-5. **Blog** - Posts organized by category (Legal Tech, Software Development, Cybersecurity, Tech Projects, Portfolio Posts)
+5. **Blog** - Posts organised by category (Legal Tech, Software Development, Cybersecurity, Tech Projects, Portfolio Posts)
 6. **Contact** - Ways to get in touch and social links
 
 ## Current Version Status
@@ -83,7 +83,7 @@ The portfolio is organized into several key sections:
 
 - Expand blog content with more posts in each category
 - Add more project showcase pages
-- Implement analytics and SEO optimization
+- Implement analytics and SEO optimisation
 - Create an automated deployment pipeline
 
 ## Design Decisions
@@ -110,15 +110,15 @@ It's a more deliberate, more "me" identity than the original dark theme, and one
 ## Lessons Learned
 
 - Jekyll Liquid templating is powerful but requires careful attention to variable scope
-- SCSS organization with partial imports keeps stylesheets maintainable
+- SCSS organisation with partial imports keeps stylesheets maintainable
 - Responsive design requires testing on multiple device sizes
-- Clear front matter structure (categories, tags) is essential for content organization
+- Clear front matter structure (categories, tags) is essential for content organisation
 
 ## Next Steps
 
 1. Continue expanding blog content with detailed posts
 2. Add more project showcase pages as work progresses
-3. Optimize images and assets for better performance
+3. Optimise images and assets for better performance
 4. Implement comment system for blog posts (optional)
 5. Create a projects archive or timeline view
 6. Add search functionality for blog posts
