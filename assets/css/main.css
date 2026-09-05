@@ -1337,6 +1337,8 @@ textarea:focus-visible {
   gap: 0.5rem;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .pillar-card p {
@@ -1442,6 +1444,10 @@ textarea:focus-visible {
   color: #14171b;
   margin: 0;
   font-size: clamp(1.45rem, 2vw, 2rem);
+  overflow-wrap: break-word;
+  word-break: break-word;
+  -ms-hyphens: auto;
+      hyphens: auto;
 }
 
 .highlight-card h2,

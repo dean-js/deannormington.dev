@@ -273,6 +273,8 @@
   align-items: center;
   gap: 0.5rem;
   flex-wrap: wrap;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .pillar-card p {
@@ -360,6 +362,9 @@
   color: $text;
   margin: 0;
   font-size: clamp(1.45rem, 2vw, 2rem);
+  overflow-wrap: break-word;
+  word-break: break-word;
+  hyphens: auto;
 }
 
 .highlight-card h2,
