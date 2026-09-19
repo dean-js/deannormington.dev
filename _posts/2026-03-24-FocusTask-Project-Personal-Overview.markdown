@@ -4,6 +4,7 @@ title: FocusTask Project - Personal Project Overview
 date: 2026-03-24 17:05:00 +0000
 description: A personal reflection on creating FocusTask - a simple but efficient to-do list application.
 img: software.jpg
+img-alt: "A hand writing a checklist by hand in a notebook"
 fig-caption:
 categories: [Software Development, Portfolio Posts]
 tags: [projects, computing, application]

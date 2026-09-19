@@ -4,6 +4,7 @@ title: "Building My Personal Portfolio with Jekyll"
 date: 2026-06-05
 description: "A comprehensive overview of building my personal portfolio website from start to present, documenting the project evolution, design decisions, and current state."
 img: lines-of-code.jpg
+img-alt: "Close-up of colourful lines of code on a laptop screen"
 categories: [Software Development, Portfolio Posts]
 tags:
   [

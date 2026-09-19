@@ -4,6 +4,7 @@ title: Starting a Short Course in Cyber Security
 date: 2026-05-30 17:05:00 +0000
 description: A personal reflection on starting a level 3 short course in cyber security practices.
 img: matrix-code-screen.jpg
+img-alt: "Green cascading code on a dark laptop screen"
 fig-caption:
 categories: [Cybersecurity]
 tags: [cybersecurity, computing, career-change]

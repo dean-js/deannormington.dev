@@ -5,6 +5,7 @@ date: 2026-08-22
 description: "A personal reflection on completing my NCFE Level 3 Certificate in Cyber Security Practice - what I covered, what I learned, and what comes next."
 categories: [Cybersecurity, Portfolio Posts]
 img: code-on-monitor.jpg
+img-alt: "Colourful code displayed across two computer monitors"
 tags: [cybersecurity, ncfe, career-change, learning-notes]
 published: true
 ---

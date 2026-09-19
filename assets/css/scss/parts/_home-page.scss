@@ -1082,6 +1082,8 @@ a.newer-posts:hover {
 }
 
 .post-item {
+  display: flex;
+  gap: 1.2rem;
   color: $text;
   border-bottom: 1px solid $gray;
   border-radius: 12px;
@@ -1098,12 +1100,34 @@ a.newer-posts:hover {
   box-shadow: 0 14px 26px rgba(20, 23, 27, 0.08);
 }
 
-.post-item h2 {
+.post-thumb {
+  flex: 0 0 auto;
+  width: 140px;
+  height: 96px;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: $lightgray;
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.post-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.post-item h2,
+.post-item h3 {
   margin: 0 0 0.4rem;
   font-size: 1.6rem;
 }
 
-.post-item h2 a {
+.post-item h2 a,
+.post-item h3 a {
   color: $text;
   text-decoration: none;
   border-bottom: 2px solid transparent;
@@ -1112,7 +1136,8 @@ a.newer-posts:hover {
     color 0.2s;
 }
 
-.post-item h2 a:hover {
+.post-item h2 a:hover,
+.post-item h3 a:hover {
   color: $accent;
   border-color: $accent;
 }

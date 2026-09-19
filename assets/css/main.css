@@ -2311,6 +2311,10 @@ a.newer-posts:hover {
 }
 
 .post-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 1.2rem;
   color: #14171b;
   border-bottom: 1px solid #dfe2e5;
   -webkit-border-radius: 12px;
@@ -2334,12 +2338,40 @@ a.newer-posts:hover {
           box-shadow: 0 14px 26px rgba(20, 23, 27, 0.08);
 }
 
-.post-item h2 {
+.post-thumb {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  width: 140px;
+  height: 96px;
+  -webkit-border-radius: 8px;
+          border-radius: 8px;
+  overflow: hidden;
+  background-color: #f4f6f7;
+}
+.post-thumb img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  display: block;
+}
+
+.post-body {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  min-width: 0;
+}
+
+.post-item h2,
+.post-item h3 {
   margin: 0 0 0.4rem;
   font-size: 1.6rem;
 }
 
-.post-item h2 a {
+.post-item h2 a,
+.post-item h3 a {
   color: #14171b;
   text-decoration: none;
   border-bottom: 2px solid transparent;
@@ -2348,7 +2380,8 @@ a.newer-posts:hover {
   transition: border-color 0.2s, color 0.2s;
 }
 
-.post-item h2 a:hover {
+.post-item h2 a:hover,
+.post-item h3 a:hover {
   color: #0e7c86;
   border-color: #0e7c86;
 }
@@ -2798,6 +2831,16 @@ a.newer-posts:hover {
 @media only screen and (max-width: 480px) {
   .content-box {
     padding: 10px;
+  }
+  .post-item {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .post-thumb {
+    width: 100%;
+    height: 160px;
   }
   .post {
     width: 98%;

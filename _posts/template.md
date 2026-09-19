@@ -4,6 +4,7 @@ title: "Post Title Goes Here"
 date: 2026-01-01 12:00:00 +0000
 description: "A plain, one to two sentence summary of what this post covers and why it matters. This is what shows up in previews and search results."
 img: # optional - filename only, e.g. my-image.jpg (lives in /assets/img/)
+img-alt: # required if img is set - plainly describe what's in the image, for accessibility and SEO
 fig-caption: # optional - only used if img is set
 categories: [Software Development] # pick one or more: Legal Tech, Software Development, Cybersecurity, Tech Projects, Portfolio Posts
 tags: [] # short, lowercase, hyphenated: e.g. shopify, web-development, learning-notes

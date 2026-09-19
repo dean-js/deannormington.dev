@@ -32,10 +32,17 @@ description: "An evolving Digital notebook of my interests. Read my thoughts on 
   <div class="posts-list">
     {% for post in category_posts %}
     <article class="post-item">
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.tags %} • {{ post.tags | join: ", " }}{% endif %}</p>
-      <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
-      <p><a class="read-more" href="{{ post.url | relative_url }}">Read more →</a></p>
+      {% if post.img %}
+      <a class="post-thumb" href="{{ post.url | relative_url }}">
+        <img src="{{ '/assets/img/' | relative_url }}{{ post.img }}" alt="{{ post['img-alt'] | default: post.title }}" loading="lazy" decoding="async">
+      </a>
+      {% endif %}
+      <div class="post-body">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.tags %} • {{ post.tags | join: ", " }}{% endif %}</p>
+        <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+        <p><a class="read-more" href="{{ post.url | relative_url }}">Read more →</a></p>
+      </div>
     </article>
     {% endfor %}
   </div>
@@ -51,10 +58,17 @@ description: "An evolving Digital notebook of my interests. Read my thoughts on 
   <div class="posts-list">
     {% for post in site.posts %}
     <article class="post-item">
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.tags %} • {{ post.tags | join: ", " }}{% endif %}</p>
-      <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
-      <p><a class="read-more" href="{{ post.url | relative_url }}">Read more →</a></p>
+      {% if post.img %}
+      <a class="post-thumb" href="{{ post.url | relative_url }}">
+        <img src="{{ '/assets/img/' | relative_url }}{{ post.img }}" alt="{{ post['img-alt'] | default: post.title }}" loading="lazy" decoding="async">
+      </a>
+      {% endif %}
+      <div class="post-body">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.tags %} • {{ post.tags | join: ", " }}{% endif %}</p>
+        <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+        <p><a class="read-more" href="{{ post.url | relative_url }}">Read more →</a></p>
+      </div>
     </article>
     {% endfor %}
   </div>

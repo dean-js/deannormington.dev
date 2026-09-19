@@ -6,7 +6,7 @@ layout: main
     {% if page.img %}
     <div class="page-cover-image">
       <figure>
-        <img class="page-image" src="{{ "/assets/img/" | relative_url }}{{ page.img }}" alt="{{ page.title }}" loading="lazy" decoding="async">
+        <img class="page-image" src="{{ "/assets/img/" | relative_url }}{{ page.img }}" alt="{{ page['img-alt'] | default: page.title }}" loading="lazy" decoding="async">
         {% if page.fig-caption %}
           <figcaption>{{page.fig-caption}}</figcaption>
         {% endif %}

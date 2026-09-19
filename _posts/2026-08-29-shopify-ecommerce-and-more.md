@@ -5,6 +5,7 @@ date: 2026-08-29
 description: "First impressions from starting an e-commerce role - getting hands-on with Shopify, learning how online stores actually run, and where this fits into my wider web development goals."
 categories: [Software Development, Portfolio Posts]
 img: shopping-for-gifts.jpg
+img-alt: "A flat lay of wrapped gifts, ribbon and a laptop on a desk"
 tags: [shopify, e-commerce, web-development, learning-notes]
 published: true
 ---

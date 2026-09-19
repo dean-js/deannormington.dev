@@ -50,7 +50,7 @@
   />
   <meta
     property="og:image:alt"
-    content="{{ page.title | default: site.title }}"
+    content="{{ page['img-alt'] | default: page.title | default: site.title }}"
   />
   {% else %}
   <meta
