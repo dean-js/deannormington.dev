@@ -3,8 +3,8 @@ layout: post
 title: Dean's Legal Fee Calculator v1.00 - Project Overview
 date: 2026-03-24 17:05:00 +0000
 description: A personal insight and reflection on creating Dean's Legal Fee Calculator - a simple but efficient calculator application for legal industry accounting and invoicing.
-img: # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+img: old-books.jpg
+fig-caption:
 categories: [Legal Tech, Portfolio Posts]
 tags: [projects, law, application, legal, portfolio, legal-tech]
 ---

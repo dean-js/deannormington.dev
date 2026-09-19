@@ -4,6 +4,7 @@ title: "Option A? Option B? - Starting a New Role Over the Traditional Route"
 date: 2026-08-24
 description: "Weighing up college against taking an e-commerce job offer, and why choosing the non-traditional route still feels like the right call for where I'm headed."
 categories: [Portfolio Posts]
+img: forest-path.jpg
 tags: [career-change, e-commerce, decision-making, learning-notes]
 published: true
 ---

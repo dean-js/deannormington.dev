@@ -6,6 +6,7 @@ categories: [Software Development]
 tags:
   [coding, ollama, local-ai, artificial-intelligence, macbook, open-source, ai]
 description: "A personal case study on calibrating llama3.2:3b and Page Assist to run entirely offline on a 2014 Dual-Core i5 MacBook Pro with 16GB RAM."
+img: mac.jpg
 published: true
 ---
 

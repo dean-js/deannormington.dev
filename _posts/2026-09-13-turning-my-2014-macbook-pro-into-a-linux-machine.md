@@ -4,6 +4,7 @@ title: "Turning My Early 2014 MacBook Pro Into a Linux Machine in 2026 Using the
 date: 2026-09-13
 categories: [Tech Projects, Software Development]
 tags: [linux, linux-mint, macbook, open-source, tech-projects, hardware, learning-notes]
+img: linux-mint-desktop.png
 description: "How I gave my early 2014 MacBook Pro a second life in 2026 by installing the latest version of Linux Mint - what worked, what broke, how I fixed it, and why the lightweight setup still handles coding and Claude Code just fine."
 published: true
 ---

@@ -3,8 +3,8 @@ layout: post
 title: Starting a Short Course in Cyber Security
 date: 2026-05-30 17:05:00 +0000
 description: A personal reflection on starting a level 3 short course in cyber security practices.
-img: # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+img: matrix-code-screen.jpg
+fig-caption:
 categories: [Cybersecurity]
 tags: [cybersecurity, computing, career-change]
 ---

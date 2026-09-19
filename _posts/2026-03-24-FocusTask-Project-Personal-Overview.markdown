@@ -3,8 +3,8 @@ layout: post
 title: FocusTask Project - Personal Project Overview
 date: 2026-03-24 17:05:00 +0000
 description: A personal reflection on creating FocusTask - a simple but efficient to-do list application.
-img: # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+img: software.jpg
+fig-caption:
 categories: [Software Development, Portfolio Posts]
 tags: [projects, computing, application]
 ---

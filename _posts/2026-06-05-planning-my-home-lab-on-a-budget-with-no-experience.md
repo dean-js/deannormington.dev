@@ -4,6 +4,7 @@ title: "Planning My Home Lab on a Budget with No Experience"
 date: 2026-06-05
 description: "A beginner-friendly plan for building a budget home lab with no prior experience, using affordable hardware and practical learning goals."
 categories: [Tech Projects, Portfolio Posts]
+img: workflow.jpg
 tags: [home-lab, budget, beginner, hardware, networking, learning, lab-setup]
 published: true
 ---

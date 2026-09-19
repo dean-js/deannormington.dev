@@ -25,10 +25,6 @@ description: "A diverse repository of my technical work, featuring a wide variet
     <h3>Cybersecurity Projects & Development</h3>
     <p>A running log of hands-on cybersecurity work - TryHackMe progress, home lab exercises, and other practical tasks completed to build and demonstrate real-world skills.</p>
   </a>
-  <a class="project-card" href="{{ '/projects/private-ai-workstation/' | relative_url }}">
-    <h3>My Private AI Workstation</h3>
-    <p>A dedicated AI research and development environment for building secure automation, generative tooling, and productivity workflows with a private-first approach.</p>
-  </a>
   <a class="project-card" href="{{ '/projects/cybersecurity-fundamentals/' | relative_url }}">
     <h3>Cybersecurity Fundamentals</h3>
     <p>Structured learning path covering defensive and offensive fundamentals: TryHackMe and HackTheBox guided tracks with lab setup and portfolio tips.</p>
@@ -42,6 +38,11 @@ description: "A diverse repository of my technical work, featuring a wide variet
   <a class="project-card" href="{{ '/projects/raspberry-pi-projects/' | relative_url }}">
     <h3>Raspberry Pi Projects</h3>
     <p>Hands-on Raspberry Pi builds for home-lab, portable testing, and IoT prototypes: hardware tips, network setup and automation examples.</p>
+  </a>
+
+  <a class="project-card" href="{{ '/projects/shopify-certification/' | relative_url }}">
+    <h3>Shopify Certification</h3>
+    <p>Working toward official Shopify certification, building on hands-on store setup, theme customisation, and e-commerce admin experience from my day job.</p>
   </a>
   </div>
   <!-- Add project details here -->
