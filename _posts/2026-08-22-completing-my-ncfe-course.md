@@ -10,8 +10,6 @@ tags: [cybersecurity, ncfe, career-change, learning-notes]
 published: true
 ---
 
-## Introduction
-
 Twelve weeks ago I started my NCFE Level 3 Certificate in Cyber Security Practice, and this post is a reflection on finishing it - what the course actually covered, what stuck with me, and where I plan to take these skills next.
 
 <!--more-->

@@ -10,8 +10,6 @@ tags: [shopify, e-commerce, web-development, learning-notes]
 published: true
 ---
 
-## Introduction
-
 Following on from choosing the e-commerce role over the traditional college route, this post is a first look at what that's actually meant day to day - starting with Shopify and the wider world of e-commerce.
 
 <!--more-->

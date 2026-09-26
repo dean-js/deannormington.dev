@@ -19,8 +19,6 @@ tags:
 published: true
 ---
 
-## Introduction
-
 This post is a summary of my personal portfolio project journey. From initial conception through design iterations to the current state, I document the decisions made, technologies chosen, and the ongoing development of this Jekyll-based portfolio site.
 
 <!--more-->

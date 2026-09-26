@@ -10,8 +10,6 @@ description: "How I gave my early 2014 MacBook Pro a second life in 2026 by inst
 published: true
 ---
 
-## Introduction
-
 My early 2014 MacBook Pro has been sitting around doing very little for a while now. macOS support for it stopped years ago, and it was starting to feel more like a paperweight than a laptop. Rather than let it keep gathering dust, I decided to see what it could still do in 2026 with the latest version of Linux Mint installed instead.
 
 The goal wasn't to turn it into a workstation. It was to get a genuinely useful, optimised, day-to-day machine out of hardware that's over a decade old: something that could still run Claude Code, a VS Code environment, and general development work without falling over.

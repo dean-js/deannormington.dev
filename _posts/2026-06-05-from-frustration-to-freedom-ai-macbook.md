@@ -11,8 +11,6 @@ img-alt: "A MacBook, notebook and phone laid out on a wooden desk"
 published: true
 ---
 
-# From Frustration to Freedom: How I Built a Private AI Workstation on My Old MacBook Pro
-
 We've all been taught that to do anything useful with artificial intelligence, you need a serious tech setup, an expensive monthly subscription, or a brand-new computer. For a long time, I believed that too. Every time I wanted to use AI to brainstorm blog posts or analyse a project, my data was being sent across the internet to a cloud data centre owned by a large tech company.
 
 I wanted a space where my ideas could stay entirely mine: private, offline, and secure. So I looked at my older **Dual-Core i5 MacBook Pro with 16GB of RAM** and wondered: _can this old laptop run its own brain?_
