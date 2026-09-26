@@ -43,5 +43,10 @@ description: "A diverse repository of my technical work, featuring a wide variet
     <h3>Shopify Certification</h3>
     <p>Working toward official Shopify certification, building on hands-on store setup, theme customisation, and e-commerce admin experience from my day job.</p>
   </a>
+
+  <a class="project-card" href="{{ '/projects/deans-libaas/' | relative_url }}">
+    <h3>Dean's Libaas - Shopify Dev Store</h3>
+    <p>A personal Shopify development store built around a modest/Islamic clothing concept, used to practice catalogue structure, store admin, and the newer Shopify admin experience.</p>
+  </a>
   </div>
 </section>
