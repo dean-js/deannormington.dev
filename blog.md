@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Blog | Dean Normington
+title: Blog
 description: "An evolving Digital notebook of my interests. Read my thoughts on Current Projects,Studies, Articles I find interesting, and Reflections on Tech and much more."
 ---
 

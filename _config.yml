@@ -4,6 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Bradford-based web developer and Shopify builder with a background in customer service. Portfolio and blog covering web development, e-commerce builds, and a growing interest in IT and cyber security.
 keywords: "Dean Normington, web developer Bradford, Shopify developer, e-commerce, web development, customer service, portfolio, FocusTask, cyber security, UK developer"
 permalink: ":title/"
+excerpt_separator: "<!--more-->" # place <!--more--> after the first real paragraph in each post so blog/homepage previews don't cut off at a bare heading
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://deannormington.dev" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here

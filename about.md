@@ -1,6 +1,6 @@
 ---
 layout: main
-title: About Me | Dean Normington
+title: About Me
 description: "Bradford-based web developer and Shopify builder with a background in customer service. Read about my training, my Cybersecurity Practices Level 3 studies, and how I chose hands-on e-commerce work over the traditional college route."
 ---
 

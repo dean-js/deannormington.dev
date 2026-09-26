@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Featured Portfolio | Dean Normington
+title: Featured Portfolio
 description: "A curated gallery of my finished applications showcasing my core software engineering skills, responsive web development, and secure development practices."
 ---
 
@@ -9,7 +9,6 @@ description: "A curated gallery of my finished applications showcasing my core s
   <p>A look at what I've built on the way into web development and e-commerce.</p>
   
   <div class="projects-grid">
-    <!-- Add your projects here -->
     <div class="project-card">
       <h3>FocusTask - To-Do List App</h3>
       <p>A minimal, efficient to-do list app with due dates, priority levels, and colour-coded tasks, saved locally with localStorage.</p>
@@ -35,6 +34,5 @@ description: "A curated gallery of my finished applications showcasing my core s
       <p>A concept business website for a fictional coffee shop, covering a menu, about section, location, and contact details.</p>
       <a href="{{ '/projects/coffeeshop-concept/' | relative_url }}" class="project-link">View Project</a>
     </div>
-    <!-- Add more projects as needed -->
   </div>
 </section>

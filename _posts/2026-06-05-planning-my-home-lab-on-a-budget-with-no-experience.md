@@ -14,6 +14,8 @@ published: true
 
 This post is a working plan for building a home lab from scratch on a tight budget and with no prior experience. I want a practical space where I can learn networking, server management, and basic automation without spending a lot of money doing it.
 
+<!--more-->
+
 ## What I Want to Build
 
 - A small home lab setup for learning and experimentation

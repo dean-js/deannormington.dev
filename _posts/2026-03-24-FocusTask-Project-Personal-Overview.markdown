@@ -14,6 +14,8 @@ tags: [projects, computing, application]
 
 FocusTask, while just a name for my first coding project, is a simple to-do list app that has expanded into a minimal but efficient to-do list, tracking users' tasks and letting them add a due date and priority level which gives the task a colour code.
 
+<!--more-->
+
 As someone who wasn't previously that organised, and who liked to make little to-do lists of the tasks I had to complete in my personal and work life, I found myself wanting to add more features and expand this project - both for my portfolio and potentially beyond.
 
 ## Key Features

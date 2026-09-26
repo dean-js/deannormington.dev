@@ -16,6 +16,8 @@ With my Computing (HNC) course due to start in September, I found myself facing 
 
 On paper, Option A - going to college - is the "expected" path, especially after already stepping away from one course of study before. Option B - taking the job - meant trading a classroom for real, hands-on experience straight away.
 
+<!--more-->
+
 ## Why I Chose the Non-Traditional Route
 
 After weighing both up, I chose Option B. A few things tipped the decision:

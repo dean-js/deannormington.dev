@@ -14,6 +14,8 @@ published: true
 
 Following on from choosing the e-commerce role over the traditional college route, this post is a first look at what that's actually meant day to day - starting with Shopify and the wider world of e-commerce.
 
+<!--more-->
+
 ## Getting Hands-On with Shopify
 
 The role itself is an e-commerce admin assistant position, handling customer service, orders and returns for a local independent Islamic clothing retailer, and Shopify has been the main platform I've been learning through it - from product listings and collections to the storefront theme and how the storefront connects to the backend. Coming from mostly self-taught HTML, CSS, and JavaScript, seeing how a production e-commerce platform structures all of this has been a genuinely useful step up.

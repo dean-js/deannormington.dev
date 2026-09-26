@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Contact & Connect | Dean Normington
+title: Contact & Connect
 description: "Get in touch with me for collaborations, technical discussions, or opportunities in software development, IT support, and website development across commercial and local business projects."
 ---
 

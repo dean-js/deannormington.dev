@@ -16,6 +16,8 @@ My early 2014 MacBook Pro has been sitting around doing very little for a while 
 
 The goal wasn't to turn it into a workstation. It was to get a genuinely useful, optimised, day-to-day machine out of hardware that's over a decade old: something that could still run Claude Code, a VS Code environment, and general development work without falling over.
 
+<!--more-->
+
 ## What I Did
 
 I wiped macOS and installed the newest release of Linux Mint on the MacBook Pro. Most of the install itself was straightforward, Mint's installer is polished and doesn't assume much prior Linux knowledge, but getting everything working properly on 2014 Mac hardware took a bit more effort than a modern PC would.

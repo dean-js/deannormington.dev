@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Projects | Dean Normington
+title: Projects
 description: "A diverse repository of my technical work, featuring a wide variety of coding applications, web development projects, and hands-on cybersecurity studies."
 ---
 
@@ -16,7 +16,6 @@ description: "A diverse repository of my technical work, featuring a wide variet
     <h3>NCFE Level 3 Certificate in Cyber Security Practice</h3>
     <p>Online short course in cybersecurity through ThinkEmployment: foundational skills and practical labs to support professional development.</p>
   </a>
-  <!-- Add project details here -->
   <a class="project-card" href="{{ '/projects/cisco-cybersecurity-learning/' | relative_url }}">
     <h3>Cisco Cybersecurity Learning</h3>
     <p>A free online cybersecurity course through Cisco Academy - labs, network security exercises, and practical defensive techniques.</p>
@@ -45,5 +44,4 @@ description: "A diverse repository of my technical work, featuring a wide variet
     <p>Working toward official Shopify certification, building on hands-on store setup, theme customisation, and e-commerce admin experience from my day job.</p>
   </a>
   </div>
-  <!-- Add project details here -->
 </section>

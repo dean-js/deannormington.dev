@@ -14,6 +14,8 @@ tags: [cybersecurity, computing, career-change]
 
 After officially dropping out of university, I decided to use this time productively to learn the fundamental skills I need to update my CV in 2026. My goal is to gain qualifications that are more aligned with today's standards in the tech sector.
 
+<!--more-->
+
 I believe this cybersecurity course will provide me with the foundational theory and practical skills needed in the industry. It will also help kickstart my CV alongside the other online certifications I am currently planning to complete.
 
 ---

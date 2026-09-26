@@ -15,6 +15,8 @@ published: false # flip to true when the post is ready to go live
 
 One or two short paragraphs: what is this post about, and why does it matter right now? Set the context plainly, the way you'd explain it to someone in a first message, not a pitch.
 
+<!--more--><!-- keep this right after the intro paragraph(s) - it marks where blog/homepage previews cut off. Without it, previews grab everything up to the next blank line, which is just this heading on its own. -->
+
 Voice reminder: warm, direct, grounded. Short sentences over long ones. Back claims with what actually happened rather than generic statements. No em dashes, use a comma, colon, or a new sentence instead.
 
 ## What I Did / What Happened

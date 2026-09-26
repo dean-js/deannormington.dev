@@ -17,6 +17,8 @@ We've all been taught that to do anything useful with artificial intelligence, y
 
 I wanted a space where my ideas could stay entirely mine: private, offline, and secure. So I looked at my older **Dual-Core i5 MacBook Pro with 16GB of RAM** and wondered: _can this old laptop run its own brain?_
 
+<!--more-->
+
 The answer is yes, but it took some trial, error, and a bit of digital remodelling to get it right. Here's the story of how I turned my old Mac into a fully private, custom AI workstation.
 
 ## The Rough Start: Facing the Laptop Bottleneck
