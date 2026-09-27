@@ -35,8 +35,8 @@ description: "A curated gallery of my finished applications showcasing my core s
       <a href="{{ '/projects/coffeeshop-concept/' | relative_url }}" class="project-link">View Project</a>
     </div>
     <div class="project-card">
-      <h3>Dean's Libaas - Shopify Dev Store</h3>
-      <p>A personal Shopify development store built around a modest/Islamic clothing concept, used to practice catalogue structure, store admin, and the newer Shopify admin experience.</p>
+      <h3>Islamic Clothing & Accessories - Shopify Dev Store</h3>
+      <p>A personal Shopify development store built around a modest/Islamic clothing and accessories concept, used to practice catalogue structure and enhance Shopify store administration skills.</p>
       <a href="{{ '/projects/deans-libaas/' | relative_url }}" class="project-link">View Project</a>
     </div>
   </div>
