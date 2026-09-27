@@ -33,7 +33,7 @@ Each module built on the last, moving from theory into more practical, lab-based
 
 ## What's Next
 
-With the course complete, my focus shifts to putting these fundamentals into practice: continuing hands-on work through my home lab, TryHackMe and HackTheBox, and looking for ways to bring cybersecurity awareness into whatever role I take on next.
+With the course complete, my focus shifts to putting these fundamentals into practice: continuing hands-on work through TryHackMe and HackTheBox, and looking for ways to bring cybersecurity awareness into whatever role I take on next.
 
 ## Conclusion
 

@@ -24,7 +24,7 @@ A twelve-week, fully online course delivered through live sessions and a self-pa
 
 ## How It Connects to My Other Work
 
-This certificate is the foundation for the growing cyber security side of what I do, running alongside my [Cisco Academy](/projects/cisco-cybersecurity-learning/) study and hands-on [TryHackMe and home lab work](/projects/cybersecurity-projects/). It's a secondary focus to the core web development and Shopify work, but a genuine one I keep building on.
+This certificate is the foundation for the growing cyber security side of what I do, running alongside my [Cisco Academy](/projects/cisco-cybersecurity-learning/) study and hands-on [TryHackMe work](/projects/cybersecurity-projects/). It's a secondary focus to the core web development and Shopify work, but a genuine one I keep building on.
 
 ## Status
 

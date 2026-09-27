@@ -71,7 +71,6 @@ description: "Bradford-based web developer and Shopify builder with a background
             <ul>
                 <li>Personal projects</li>
                 <li>TryHackMe rooms</li>
-                <li>Home lab setup</li>
             </ul>
         </div>
 

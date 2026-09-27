@@ -22,7 +22,7 @@ description: "A diverse repository of my technical work, featuring a wide variet
   </a>
   <a class="project-card" href="{{ '/projects/cybersecurity-projects/' | relative_url }}">
     <h3>Cybersecurity Projects & Development</h3>
-    <p>A running log of hands-on cybersecurity work - TryHackMe progress, home lab exercises, and other practical tasks completed to build and demonstrate real-world skills.</p>
+    <p>A running log of hands-on cybersecurity work - TryHackMe progress, virtual lab exercises, and other practical tasks completed to build and demonstrate real-world skills.</p>
   </a>
   <a class="project-card" href="{{ '/projects/cybersecurity-fundamentals/' | relative_url }}">
     <h3>Cybersecurity Fundamentals</h3>
