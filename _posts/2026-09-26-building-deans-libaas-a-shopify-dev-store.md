@@ -7,7 +7,7 @@ categories: [Software Development, Portfolio Posts]
 img: embellished-abaya-portrait.jpg
 img-alt: "A model wearing an elegant black embellished abaya with a white hijab, studio portrait"
 fig-caption: "Reference imagery for the kind of luxury pret pieces Dean's Libaas is built around"
-tags: [shopify, e-commerce, web-development, learning-notes]
+tags: [shopify, e-commerce, islamic-clothing, modest-fashion, web-development, learning-notes]
 published: true
 ---
 

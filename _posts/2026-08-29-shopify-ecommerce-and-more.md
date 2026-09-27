@@ -6,7 +6,7 @@ description: "First impressions from starting an e-commerce role - getting hands
 categories: [Software Development, Portfolio Posts]
 img: shopping-for-gifts.jpg
 img-alt: "A flat lay of wrapped gifts, ribbon and a laptop on a desk"
-tags: [shopify, e-commerce, web-development, learning-notes]
+tags: [shopify, e-commerce, career-change, web-development, learning-notes]
 published: true
 ---
 
