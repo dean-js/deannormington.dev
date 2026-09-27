@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Dean's Libaas - Shopify Dev Store"
-overview: "A personal Shopify development store built around a modest/Islamic clothing concept, used to practice store admin, catalogue structure, and the newer Shopify admin experience away from a live, paying store."
+title: "Islamic Clothing & Accessories - Shopify Dev Store"
+overview: "A personal Shopify development store built around a modest/Islamic clothing and accessories concept, used to practice catalogue structure and enhance Shopify store administration skills away from a live, paying store."
 features:
   - Product and variant setup across multiple size runs and pricing tiers
   - Collection structure - a home page collection, a theme-tied "Royale" collection, and a curated "Luxury" collection
