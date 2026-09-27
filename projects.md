@@ -29,16 +29,6 @@ description: "A diverse repository of my technical work, featuring a wide variet
     <p>Structured learning path covering defensive and offensive fundamentals: TryHackMe and HackTheBox guided tracks with lab setup and portfolio tips.</p>
   </a>
 
-  <a class="project-card" href="{{ '/projects/python-fundamentals/' | relative_url }}">
-    <h3>Python Fundamentals</h3>
-    <p>Practical Python learning focused on scripting, automation, and small tools (example: a basic port scanner), with testing and packaging guidance.</p>
-  </a>
-
-  <a class="project-card" href="{{ '/projects/raspberry-pi-projects/' | relative_url }}">
-    <h3>Raspberry Pi Projects</h3>
-    <p>Hands-on Raspberry Pi builds for home-lab, portable testing, and IoT prototypes: hardware tips, network setup and automation examples.</p>
-  </a>
-
   <a class="project-card" href="{{ '/projects/shopify-certification/' | relative_url }}">
     <h3>Shopify Certification</h3>
     <p>Working toward official Shopify certification, building on hands-on store setup, theme customisation, and e-commerce admin experience from my day job.</p>

@@ -27,7 +27,7 @@ The plan is to keep the initial cost as low as possible by using second-hand equ
 
 - An old PC or laptop as the core lab machine
 - A low-cost or managed switch for networking
-- A Raspberry Pi for lightweight services or monitoring, tying in with my [Raspberry Pi projects](/projects/raspberry-pi-projects/)
+- A Raspberry Pi for lightweight services or monitoring
 - Existing routers and cabling already available at home
 
 If none of that covers what I need, second-hand marketplaces are the next step before anything gets bought new.
